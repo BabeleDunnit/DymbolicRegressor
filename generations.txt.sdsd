@@ -1,0 +1,740 @@
+Dymbolic Regressor 0.2 by Babele Dunnit
+Run Date/Time: Wed Jun 06 13:18:11 GMT+0200 2007
+Population Size: 50000
+Tournament Fights: 5
+Tournament Winners: 25000
+Min-Max Grow Depth: 2 - 30
+Min-Max Grow Nodes: 3 - 170
+Grow Termination Probability: 0.20
+New Population Percents: Mutations 0.05, Crossbreeds 0.55, New Individuals 0.40
+Operators Used: [Add,Sub,Mult,Pow]
+Lines to Regress: 2116
+Problem Dimension: 6, Ranges:
+X0 : [124.274 - 1209.89]
+X1 : [172.668 - 856.906]
+X2 : [135.953 - 1222]
+X3 : [173 - 856.644]
+X4 : [120.496 - 1226.3]
+X5 : [155.202 - 853.117]
+F : [0.05 - 0.95]
+Dymbolic Regressor 0.2 by Babele Dunnit
+Run Date/Time: Wed Jun 06 13:22:25 GMT+0200 2007
+Population Size: 50000
+Tournament Fights: 5
+Tournament Winners: 25000
+Min-Max Grow Depth: 2 - 20
+Min-Max Grow Nodes: 3 - 110
+Grow Termination Probability: 0.20
+New Population Percents: Mutations 0.05, Crossbreeds 0.55, New Individuals 0.40
+Operators Used: [Add,Sub,Mult,Pow]
+Lines to Regress: 2116
+Problem Dimension: 6, Ranges:
+X0 : [124.274 - 1209.89]
+X1 : [172.668 - 856.906]
+X2 : [135.953 - 1222]
+X3 : [173 - 856.644]
+X4 : [120.496 - 1226.3]
+X5 : [155.202 - 853.117]
+F : [0.05 - 0.95]
+Start of generation 0 -------------------------------------------- 0, time: Wed Jun 06 13:23:39 GMT+0200 2007
+
+Best Individual: 18573 = (X2 - (X2 - 0.4675))
+
+Best Individual (simplified): (X2 - (X2 - 0.4675))
+
+Best Individual Nodes Count: 5 - Best Individual Fitness: 2.999720
+Best Individual Error Range: [0.1175 - 0.4825]
+Best Individual Mean Error: 0.296267
+Best Individual RMS: 0.333364
+Start of generation 1 -------------------------------------------- 1, time: Wed Jun 06 13:27:35 GMT+0200 2007
+
+Best Individual: 21416 = pow(1.10707, (X4 - X2))
+
+Best Individual (simplified): pow(1.10707, (X4 - X2))
+
+Best Individual Nodes Count: 5 - Best Individual Fitness: 3.366180
+Best Individual Error Range: [2.06257e-06 - 0.905879]
+Best Individual Mean Error: 0.229435
+Best Individual RMS: 0.297073
+Dymbolic Regressor 0.2 by Babele Dunnit
+Run Date/Time: Wed Jun 06 14:39:37 GMT+0200 2007
+Population Size: 50000
+Tournament Fights: 5
+Tournament Winners: 25000
+Min-Max Grow Depth: 2 - 20
+Min-Max Grow Nodes: 3 - 110
+Grow Termination Probability: 0.20
+New Population Percents: Mutations 0.05, Crossbreeds 0.55, New Individuals 0.40
+Operators Used: [Add,Sub,Mult,Pow]
+Lines to Regress: 2116
+Problem Dimension: 6, Ranges:
+X0 : [124.274 - 1209.89]
+X1 : [172.668 - 856.906]
+X2 : [135.953 - 1222]
+X3 : [173 - 856.644]
+X4 : [120.496 - 1226.3]
+X5 : [155.202 - 853.117]
+F : [0.05 - 0.95]
+Dymbolic Regressor 0.2 by Babele Dunnit
+Run Date/Time: Wed Jun 06 14:44:22 GMT+0200 2007
+Population Size: 50000
+Tournament Fights: 5
+Tournament Winners: 25000
+Min-Max Grow Depth: 2 - 20
+Min-Max Grow Nodes: 3 - 110
+Grow Termination Probability: 0.20
+New Population Percents: Mutations 0.05, Crossbreeds 0.55, New Individuals 0.40
+Operators Used: [Add,Sub,Mult,Pow]
+Lines to Regress: 2116
+Problem Dimension: 6, Ranges:
+X0 : [124.274 - 1209.89]
+X1 : [172.668 - 856.906]
+X2 : [135.953 - 1222]
+X3 : [173 - 856.644]
+X4 : [120.496 - 1226.3]
+X5 : [155.202 - 853.117]
+F : [0.05 - 0.95]
+Start of generation 0 -------------------------------------------- 0, time: Wed Jun 06 14:45:03 GMT+0200 2007
+
+Best Individual: 116 = pow(1.10707, (X4 - X2))
+
+Best Individual (simplified): pow(1.10707, (X4 - X2))
+
+Best Individual Nodes Count: 5 - Best Individual Fitness: 3.366179
+Best Individual Error Range: [2.20768e-06 - 0.90588]
+Best Individual Mean Error: 0.229435
+Best Individual RMS: 0.297073
+Dymbolic Regressor 0.2 by Babele Dunnit
+Run Date/Time: Wed Jun 06 14:51:30 GMT+0200 2007
+Population Size: 50000
+Tournament Fights: 5
+Tournament Winners: 25000
+Min-Max Grow Depth: 2 - 20
+Min-Max Grow Nodes: 3 - 110
+Grow Termination Probability: 0.20
+New Population Percents: Mutations 0.01, Crossbreeds 0.49, New Individuals 0.50
+Operators Used: [Add,Sub,Mult,Pow]
+Lines to Regress: 2116
+Problem Dimension: 6, Ranges:
+X0 : [124.274 - 1209.89]
+X1 : [172.668 - 856.906]
+X2 : [135.953 - 1222]
+X3 : [173 - 856.644]
+X4 : [120.496 - 1226.3]
+X5 : [155.202 - 853.117]
+F : [0.05 - 0.95]
+Start of generation 0 -------------------------------------------- 0, time: Wed Jun 06 14:52:24 GMT+0200 2007
+
+Best Individual: 1951 = pow(1.10707, (X4 - X2))
+
+Best Individual (simplified): pow(1.10707, (X4 - X2))
+
+Best Individual Nodes Count: 5 - Best Individual Fitness: 3.366179
+Best Individual Error Range: [2.20768e-06 - 0.90588]
+Best Individual Mean Error: 0.229435
+Best Individual RMS: 0.297073
+Dymbolic Regressor 0.2 by Babele Dunnit
+Run Date/Time: Wed Jun 06 15:01:56 GMT+0200 2007
+Population Size: 50000
+Tournament Fights: 5
+Tournament Winners: 25000
+Min-Max Grow Depth: 2 - 20
+Min-Max Grow Nodes: 3 - 110
+Grow Termination Probability: 0.20
+New Population Percents: Mutations 0.01, Crossbreeds 0.49, New Individuals 0.50
+Operators Used: [Add,Sub,Mult,Pow]
+Lines to Regress: 2116
+Problem Dimension: 6, Ranges:
+X0 : [124.274 - 1209.89]
+X1 : [172.668 - 856.906]
+X2 : [135.953 - 1222]
+X3 : [173 - 856.644]
+X4 : [120.496 - 1226.3]
+X5 : [155.202 - 853.117]
+F : [0.05 - 0.95]
+Start of generation 0 -------------------------------------------- 0, time: Wed Jun 06 15:02:51 GMT+0200 2007
+
+Best Individual: 1250 = pow(1.10707, (X4 - X2))
+
+Best Individual (simplified): pow(1.10707, (X4 - X2))
+
+Best Individual Nodes Count: 5 - Best Individual Fitness: 3.366179
+Best Individual Error Range: [2.20768e-06 - 0.90588]
+Best Individual Mean Error: 0.229435
+Best Individual RMS: 0.297073
+Start of generation 1 -------------------------------------------- 1, time: Wed Jun 06 15:06:24 GMT+0200 2007
+
+Best Individual: 0 = pow(1.10707, (X4 - X2))
+
+Best Individual (simplified): pow(1.10707, (X4 - X2))
+
+Best Individual Nodes Count: 5 - Best Individual Fitness: 3.366179
+Best Individual Error Range: [2.20768e-06 - 0.90588]
+Best Individual Mean Error: 0.229435
+Best Individual RMS: 0.297073
+Start of generation 2 -------------------------------------------- 2, time: Wed Jun 06 15:10:01 GMT+0200 2007
+
+Best Individual: 0 = pow(1.10707, (X4 - X2))
+
+Best Individual (simplified): pow(1.10707, (X4 - X2))
+
+Best Individual Nodes Count: 5 - Best Individual Fitness: 3.366179
+Best Individual Error Range: [2.20768e-06 - 0.90588]
+Best Individual Mean Error: 0.229435
+Best Individual RMS: 0.297073
+Start of generation 3 -------------------------------------------- 3, time: Wed Jun 06 15:12:53 GMT+0200 2007
+
+Best Individual: 22444 = ((X2 - 0.4675) - (X2 - pow(1.03589, (X4 - X2))))
+
+Best Individual (simplified): ((X2 - 0.4675) - (X2 - pow(1.03589, (X4 - X2))))
+
+Best Individual Nodes Count: 11 - Best Individual Fitness: 5.378083
+Best Individual Error Range: [9.37919e-05 - 0.380298]
+Best Individual Mean Error: 0.156860
+Best Individual RMS: 0.185940
+Start of generation 4 -------------------------------------------- 4, time: Wed Jun 06 15:15:39 GMT+0200 2007
+
+Best Individual: 9360 = pow(1.10707, ((X4 - 1.8627) - X2))
+
+Best Individual (simplified): pow(1.10707, ((X4 - 1.8627) - X2))
+
+Best Individual Nodes Count: 7 - Best Individual Fitness: 5.800755
+Best Individual Error Range: [0.000428982 - 0.585544]
+Best Individual Mean Error: 0.130755
+Best Individual RMS: 0.172391
+Start of generation 5 -------------------------------------------- 5, time: Wed Jun 06 15:18:28 GMT+0200 2007
+
+Best Individual: 223 = pow(1.10707, ((X4 - 5.05448) - X2))
+
+Best Individual (simplified): pow(1.10707, ((X4 - 5.05448) - X2))
+
+Best Individual Nodes Count: 7 - Best Individual Fitness: 7.229805
+Best Individual Error Range: [2.15111e-05 - 0.285527]
+Best Individual Mean Error: 0.118483
+Best Individual RMS: 0.138316
+Start of generation 6 -------------------------------------------- 6, time: Wed Jun 06 15:21:38 GMT+0200 2007
+
+Best Individual: 305 = pow(1.10707, ((X4 - 4.81072) - X2))
+
+Best Individual (simplified): pow(1.10707, ((X4 - 4.81072) - X2))
+
+Best Individual Nodes Count: 7 - Best Individual Fitness: 7.563850
+Best Individual Error Range: [0.000141637 - 0.268846]
+Best Individual Mean Error: 0.113861
+Best Individual RMS: 0.132208
+Start of generation 7 -------------------------------------------- 7, time: Wed Jun 06 15:24:23 GMT+0200 2007
+
+Best Individual: 17284 = pow((pow(pow(0.50307, pow((X2 - 5.673), (X2 - X2))), ((X4 - 1.8627) - X2)) - -2.53152), -0.160898)
+
+Best Individual (simplified): pow((pow(pow(0.50307, pow((X2 - 5.673), 0)), ((X4 - 1.8627) - X2)) - -2.53152), -0.160898)
+
+Best Individual Nodes Count: 19 - Best Individual Fitness: 9.709918
+Best Individual Error Range: [0.000733441 - 0.20665]
+Best Individual Mean Error: 0.094415
+Best Individual RMS: 0.102987
+Start of generation 8 -------------------------------------------- 8, time: Wed Jun 06 15:27:12 GMT+0200 2007
+
+Best Individual: 457 = pow((pow(pow(0.50307, pow((X2 - 5.673), (X2 - X2))), ((X4 - 1.8627) - X2)) - -1.56452), -0.160898)
+
+Best Individual (simplified): pow((pow(pow(0.50307, pow((X2 - 5.673), 0)), ((X4 - 1.8627) - X2)) - -1.56452), -0.160898)
+
+Best Individual Nodes Count: 19 - Best Individual Fitness: 10.695590
+Best Individual Error Range: [0.000814592 - 0.225198]
+Best Individual Mean Error: 0.083404
+Best Individual RMS: 0.093496
+Start of generation 9 -------------------------------------------- 9, time: Wed Jun 06 15:30:01 GMT+0200 2007
+
+Best Individual: 251 = pow((pow(pow(0.50307, pow((X2 - 5.673), (X2 - X2))), ((X4 - 1.96292) - X2)) - -1.56452), -0.160898)
+
+Best Individual (simplified): pow((pow(pow(0.50307, pow((X2 - 5.673), 0)), ((X4 - 1.96292) - X2)) - -1.56452), -0.160898)
+
+Best Individual Nodes Count: 19 - Best Individual Fitness: 10.700622
+Best Individual Error Range: [0.000776713 - 0.222059]
+Best Individual Mean Error: 0.083284
+Best Individual RMS: 0.093452
+Start of generation 10 -------------------------------------------- 10, time: Wed Jun 06 15:32:58 GMT+0200 2007
+
+Best Individual: 24165 = pow((pow(0.4675, ((X4 - 1.8627) - X2)) - -1.37797), -0.160898)
+
+Best Individual (simplified): pow((pow(0.4675, ((X4 - 1.8627) - X2)) - -1.37797), -0.160898)
+
+Best Individual Nodes Count: 11 - Best Individual Fitness: 11.276729
+Best Individual Error Range: [4.93893e-05 - 0.238915]
+Best Individual Mean Error: 0.075825
+Best Individual RMS: 0.088678
+Start of generation 11 -------------------------------------------- 11, time: Wed Jun 06 15:35:48 GMT+0200 2007
+
+Best Individual: 201 = pow((pow(0.4675, ((X4 - 1.55354) - X2)) - -1.37797), -0.160898)
+
+Best Individual (simplified): pow((pow(0.4675, ((X4 - 1.55354) - X2)) - -1.37797), -0.160898)
+
+Best Individual Nodes Count: 11 - Best Individual Fitness: 11.484323
+Best Individual Error Range: [0.000128471 - 0.249454]
+Best Individual Mean Error: 0.075389
+Best Individual RMS: 0.087075
+Start of generation 12 -------------------------------------------- 12, time: Wed Jun 06 15:38:47 GMT+0200 2007
+
+Best Individual: 477 = pow((pow(0.4675, ((X4 - 1.55354) - X2)) - -1.17139), -0.160898)
+
+Best Individual (simplified): pow((pow(0.4675, ((X4 - 1.55354) - X2)) - -1.17139), -0.160898)
+
+Best Individual Nodes Count: 11 - Best Individual Fitness: 11.565566
+Best Individual Error Range: [0.000145582 - 0.265969]
+Best Individual Mean Error: 0.074444
+Best Individual RMS: 0.086463
+Start of generation 13 -------------------------------------------- 13, time: Wed Jun 06 15:41:41 GMT+0200 2007
+
+Best Individual: 2 = pow((pow(0.4675, ((X4 - 1.55354) - X2)) - -1.17139), -0.160898)
+
+Best Individual (simplified): pow((pow(0.4675, ((X4 - 1.55354) - X2)) - -1.17139), -0.160898)
+
+Best Individual Nodes Count: 11 - Best Individual Fitness: 11.565566
+Best Individual Error Range: [0.000145582 - 0.265969]
+Best Individual Mean Error: 0.074444
+Best Individual RMS: 0.086463
+Start of generation 14 -------------------------------------------- 14, time: Wed Jun 06 15:44:37 GMT+0200 2007
+
+Best Individual: 11849 = pow((pow(pow(X4, -0.126653), ((X4 - 1.8627) - X2)) - (pow(5.85882, pow(X2, -6.27872)) + -1.83309)), -0.160898)
+
+Best Individual (simplified): pow((pow(pow(X4, -0.126653), ((X4 - 1.8627) - X2)) - (pow(5.85882, pow(X2, -6.27872)) + -1.83309)), -0.160898)
+
+Best Individual Nodes Count: 19 - Best Individual Fitness: 11.615598
+Best Individual Error Range: [4.48346e-06 - 0.287657]
+Best Individual Mean Error: 0.073937
+Best Individual RMS: 0.086091
+Start of generation 15 -------------------------------------------- 15, time: Wed Jun 06 15:47:22 GMT+0200 2007
+
+Best Individual: 115 = pow((pow(pow(X4, -0.126653), ((X4 - 1.8627) - X2)) - (pow(5.85882, pow(X2, -6.33228)) + -2.13788)), -0.160898)
+
+Best Individual (simplified): pow((pow(pow(X4, -0.126653), ((X4 - 1.8627) - X2)) - (pow(5.85882, pow(X2, -6.33228)) + -2.13788)), -0.160898)
+
+Best Individual Nodes Count: 19 - Best Individual Fitness: 11.787832
+Best Individual Error Range: [0.000204115 - 0.260028]
+Best Individual Mean Error: 0.070855
+Best Individual RMS: 0.084833
+Start of generation 16 -------------------------------------------- 16, time: Wed Jun 06 15:50:06 GMT+0200 2007
+
+Best Individual: 275 = pow((pow(pow(X4, -0.126653), ((X4 - 1.64853) - X2)) - (pow(5.85882, pow(X2, -6.33228)) + -2.13788)), -0.160898)
+
+Best Individual (simplified): pow((pow(pow(X4, -0.126653), ((X4 - 1.64853) - X2)) - (pow(5.85882, pow(X2, -6.33228)) + -2.13788)), -0.160898)
+
+Best Individual Nodes Count: 19 - Best Individual Fitness: 12.104634
+Best Individual Error Range: [7.95891e-05 - 0.269736]
+Best Individual Mean Error: 0.069221
+Best Individual RMS: 0.082613
+Start of generation 17 -------------------------------------------- 17, time: Wed Jun 06 15:52:50 GMT+0200 2007
+
+Best Individual: 33 = pow((pow(pow(X4, -0.126653), ((X4 - 1.39724) - X2)) - (pow(5.85882, pow(X2, -6.33228)) + -2.13788)), -0.160898)
+
+Best Individual (simplified): pow((pow(pow(X4, -0.126653), ((X4 - 1.39724) - X2)) - (pow(5.85882, pow(X2, -6.33228)) + -2.13788)), -0.160898)
+
+Best Individual Nodes Count: 19 - Best Individual Fitness: 12.277349
+Best Individual Error Range: [5.40826e-05 - 0.27974]
+Best Individual Mean Error: 0.068193
+Best Individual RMS: 0.081450
+Start of generation 18 -------------------------------------------- 18, time: Wed Jun 06 15:55:42 GMT+0200 2007
+
+Best Individual: 387 = pow((pow(pow(X2, -0.126653), ((X4 - 1.39724) - X2)) - (pow(5.85882, pow(X2, -6.33228)) + -2.13788)), -0.160898)
+
+Best Individual (simplified): pow((pow(pow(X2, -0.126653), ((X4 - 1.39724) - X2)) - (pow(5.85882, pow(X2, -6.33228)) + -2.13788)), -0.160898)
+
+Best Individual Nodes Count: 19 - Best Individual Fitness: 12.329784
+Best Individual Error Range: [6.04552e-05 - 0.27973]
+Best Individual Mean Error: 0.068048
+Best Individual RMS: 0.081104
+Dymbolic Regressor 0.2 by Babele Dunnit
+Run Date/Time: Wed Jun 06 15:58:33 GMT+0200 2007
+Population Size: 50000
+Tournament Fights: 5
+Tournament Winners: 25000
+Min-Max Grow Depth: 2 - 20
+Min-Max Grow Nodes: 3 - 110
+Grow Termination Probability: 0.20
+New Population Percents: Mutations 0.01, Crossbreeds 0.49, New Individuals 0.50
+Operators Used: [Add,Sub,Mult,Pow]
+Lines to Regress: 2116
+Problem Dimension: 6, Ranges:
+X0 : [124.274 - 1209.89]
+X1 : [172.668 - 856.906]
+X2 : [135.953 - 1222]
+X3 : [173 - 856.644]
+X4 : [120.496 - 1226.3]
+X5 : [155.202 - 853.117]
+F : [0.05 - 0.95]
+Start of generation 0 -------------------------------------------- 0, time: Wed Jun 06 15:59:21 GMT+0200 2007
+
+Best Individual: 4183 = pow((pow(pow(X2, -0.126653), ((X4 - 1.39724) - X2)) - (pow(5.85882, pow(X2, -6.33227)) + -2.13788)), -0.160898)
+
+Best Individual (simplified): pow((pow(pow(X2, -0.126653), ((X4 - 1.39724) - X2)) - (pow(5.85882, pow(X2, -6.33227)) + -2.13788)), -0.160898)
+
+Best Individual Nodes Count: 19 - Best Individual Fitness: 12.329784
+Best Individual Error Range: [6.04395e-05 - 0.27973]
+Best Individual Mean Error: 0.068048
+Best Individual RMS: 0.081104
+Dymbolic Regressor 0.2 by Babele Dunnit
+Run Date/Time: Wed Jun 06 16:09:11 GMT+0200 2007
+Population Size: 50000
+Tournament Fights: 5
+Tournament Winners: 25000
+Min-Max Grow Depth: 2 - 20
+Min-Max Grow Nodes: 3 - 110
+Grow Termination Probability: 0.20
+New Population Percents: Mutations 0.01, Crossbreeds 0.49, New Individuals 0.50
+Operators Used: [Add,Sub,Mult,Pow]
+Lines to Regress: 2116
+Problem Dimension: 6, Ranges:
+X0 : [124.274 - 1209.89]
+X1 : [172.668 - 856.906]
+X2 : [135.953 - 1222]
+X3 : [173 - 856.644]
+X4 : [120.496 - 1226.3]
+X5 : [155.202 - 853.117]
+F : [0.05 - 0.95]
+Dymbolic Regressor 0.2 by Babele Dunnit
+Run Date/Time: Wed Jun 06 16:09:26 GMT+0200 2007
+Population Size: 50000
+Tournament Fights: 5
+Tournament Winners: 25000
+Min-Max Grow Depth: 2 - 20
+Min-Max Grow Nodes: 3 - 110
+Grow Termination Probability: 0.20
+New Population Percents: Mutations 0.01, Crossbreeds 0.49, New Individuals 0.50
+Operators Used: [Add,Sub,Mult,Pow]
+Lines to Regress: 2116
+Problem Dimension: 6, Ranges:
+X0 : [124.274 - 1209.89]
+X1 : [172.668 - 856.906]
+X2 : [135.953 - 1222]
+X3 : [173 - 856.644]
+X4 : [120.496 - 1226.3]
+X5 : [155.202 - 853.117]
+F : [0.05 - 0.95]
+Start of generation 0 -------------------------------------------- 0, time: Wed Jun 06 16:10:20 GMT+0200 2007
+
+Best Individual: 8625 = pow((pow(pow(X2, -0.126653), ((X4 - 1.39724) - X2)) - (pow(5.85882, pow(X2, -6.33227)) + -2.13788)), -0.160898)
+
+Best Individual (simplified): pow((pow(pow(X2, -0.126653), ((X4 - 1.39724) - X2)) - (pow(5.85882, pow(X2, -6.33227)) + -2.13788)), -0.160898)
+
+Best Individual Nodes Count: 19 - Best Individual Fitness: 12.329784
+Best Individual Error Range: [6.04395e-05 - 0.27973]
+Best Individual Mean Error: 0.068048
+Best Individual RMS: 0.081104
+Start of generation 1 -------------------------------------------- 1, time: Wed Jun 06 16:13:35 GMT+0200 2007
+
+Best Individual: 69 = pow((pow(pow(X2, -0.126653), ((X4 - 1.39724) - X2)) - (pow(5.85882, pow(X0, -6.33227)) + -2.21523)), -0.160898)
+
+Best Individual (simplified): pow((pow(pow(X2, -0.126653), ((X4 - 1.39724) - X2)) - (pow(5.85882, pow(X0, -6.33227)) + -2.21523)), -0.160898)
+
+Best Individual Nodes Count: 19 - Best Individual Fitness: 12.333708
+Best Individual Error Range: [5.40438e-05 - 0.272577]
+Best Individual Mean Error: 0.067472
+Best Individual RMS: 0.081078
+Start of generation 2 -------------------------------------------- 2, time: Wed Jun 06 16:17:34 GMT+0200 2007
+
+Best Individual: 207 = pow((pow(pow(X2, -0.126653), ((X4 - 1.39724) - X2)) - (pow(5.85882, pow(X0, -2.18438)) + -2.21523)), -0.160898)
+
+Best Individual (simplified): pow((pow(pow(X2, -0.126653), ((X4 - 1.39724) - X2)) - (pow(5.85882, pow(X0, -2.18438)) + -2.21523)), -0.160898)
+
+Best Individual Nodes Count: 19 - Best Individual Fitness: 12.333715
+Best Individual Error Range: [5.40439e-05 - 0.272577]
+Best Individual Mean Error: 0.067472
+Best Individual RMS: 0.081078
+Start of generation 3 -------------------------------------------- 3, time: Wed Jun 06 16:20:52 GMT+0200 2007
+
+Best Individual: 19920 = pow((pow(pow(X2, -0.126653), ((X4 - 1.39724) - X2)) - (pow(pow(0.50307, X2), (X2 + X0)) + -1.17139)), -0.160898)
+
+Best Individual (simplified): pow((pow(pow(X2, -0.126653), ((X4 - 1.39724) - X2)) - (pow(pow(0.50307, X2), (X2 + X0)) + -1.17139)), -0.160898)
+
+Best Individual Nodes Count: 21 - Best Individual Fitness: 12.335168
+Best Individual Error Range: [5.76688e-05 - 0.276582]
+Best Individual Mean Error: 0.067790
+Best Individual RMS: 0.081069
+Start of generation 4 -------------------------------------------- 4, time: Wed Jun 06 16:24:15 GMT+0200 2007
+
+Best Individual: 0 = pow((pow(pow(X2, -0.126653), ((X4 - 1.39724) - X2)) - (pow(pow(0.50307, X2), (X2 + X0)) + -1.17139)), -0.160898)
+
+Best Individual (simplified): pow((pow(pow(X2, -0.126653), ((X4 - 1.39724) - X2)) - (pow(pow(0.50307, X2), (X2 + X0)) + -1.17139)), -0.160898)
+
+Best Individual Nodes Count: 21 - Best Individual Fitness: 12.335168
+Best Individual Error Range: [5.76688e-05 - 0.276582]
+Best Individual Mean Error: 0.067790
+Best Individual RMS: 0.081069
+Start of generation 5 -------------------------------------------- 5, time: Wed Jun 06 16:27:45 GMT+0200 2007
+
+Best Individual: 235 = pow((pow(pow(X2, -0.126653), ((X4 - 1.24022) - X2)) - (pow(pow(0.50307, X2), (X2 + X0)) + -1.17139)), -0.160898)
+
+Best Individual (simplified): pow((pow(pow(X2, -0.126653), ((X4 - 1.24022) - X2)) - (pow(pow(0.50307, X2), (X2 + X0)) + -1.17139)), -0.160898)
+
+Best Individual Nodes Count: 21 - Best Individual Fitness: 12.335930
+Best Individual Error Range: [2.70637e-05 - 0.281973]
+Best Individual Mean Error: 0.067544
+Best Individual RMS: 0.081064
+Start of generation 6 -------------------------------------------- 6, time: Wed Jun 06 16:31:26 GMT+0200 2007
+
+Best Individual: 13032 = pow((pow(pow((pow((X3 + X5), -3.38196) + 1.15825), -4.84701), ((X4 - ((pow(((((X0 + pow(X1, (((X4 - 0.679231) - (pow((X2 - 3.46355), (-5.1458 - X0)) - pow(pow(X4, 5.32945), (X4 - X0)))) - X2))) + (-5.29652 * (-1.5375 + (X0 + -0.492537)))) + ((X0 * X3) + -3.78326)) - X1), -0.838424) * pow(pow(X2, -0.126653), ((X4 - 1.39724) - X2))) + 1.78345)) - X2)) - -1.56451), -0.160898)
+
+Best Individual (simplified): pow((pow(pow((pow((X3 + X5), -3.38196) + 1.15825), -4.84701), ((X4 - ((pow(((((X0 + pow(X1, (((X4 - 0.679231) - (pow((X2 - 3.46355), (-5.1458 - X0)) - pow(pow(X4, 5.32945), (X4 - X0)))) - X2))) + (-5.29652 * (-1.5375 + (X0 + -0.492537)))) + ((X0 * X3) + -3.78326)) - X1), -0.838424) * pow(pow(X2, -0.126653), ((X4 - 1.39724) - X2))) + 1.78345)) - X2)) - -1.56451), -0.160898)
+
+Best Individual Nodes Count: 73 - Best Individual Fitness: 12.798886
+Best Individual Error Range: [0.000132119 - 0.228172]
+Best Individual Mean Error: 0.068512
+Best Individual RMS: 0.078131
+Start of generation 7 -------------------------------------------- 7, time: Wed Jun 06 16:35:15 GMT+0200 2007
+
+Best Individual: 473 = pow((pow(pow((pow((X3 + X5), -3.38196) + 1.15825), -4.84701), ((X4 - ((pow(((((X0 + pow(X1, (((X4 - 0.679231) - (pow((X2 - 3.46355), (-5.1458 - X0)) - pow(pow(X4, 5.32945), (X4 - X0)))) - X2))) + (-5.29652 * (-1.5375 + (X0 + -0.492537)))) + ((X0 * X3) + -3.78326)) - X1), -0.838424) * pow(pow(X2, -0.126653), ((X4 - 4.16236) - X2))) + 1.78345)) - X2)) - -1.56451), -0.160898)
+
+Best Individual (simplified): pow((pow(pow((pow((X3 + X5), -3.38196) + 1.15825), -4.84701), ((X4 - ((pow(((((X0 + pow(X1, (((X4 - 0.679231) - (pow((X2 - 3.46355), (-5.1458 - X0)) - pow(pow(X4, 5.32945), (X4 - X0)))) - X2))) + (-5.29652 * (-1.5375 + (X0 + -0.492537)))) + ((X0 * X3) + -3.78326)) - X1), -0.838424) * pow(pow(X2, -0.126653), ((X4 - 4.16236) - X2))) + 1.78345)) - X2)) - -1.56451), -0.160898)
+
+Best Individual Nodes Count: 73 - Best Individual Fitness: 14.259058
+Best Individual Error Range: [0.000140215 - 0.228172]
+Best Individual Mean Error: 0.061972
+Best Individual RMS: 0.070130
+Start of generation 8 -------------------------------------------- 8, time: Wed Jun 06 16:39:23 GMT+0200 2007
+
+Best Individual: 113 = pow((pow(pow((pow((X3 + X5), -3.38196) + 1.15825), -4.84701), ((X4 - ((pow(((((X0 + pow(X1, (((X4 - 0.679231) - (pow((X2 - 3.46355), (-5.1458 - X0)) - pow(pow(X4, 5.32945), (X4 - X0)))) - X2))) + (-5.29652 * (-1.5375 + (X0 + -0.492537)))) + ((X0 * X3) + -3.78326)) - X1), -0.838424) * pow(pow(X2, -0.126653), ((X4 - 4.16236) - X2))) + 1.78345)) - X2)) - -1.37192), -0.160898)
+
+Best Individual (simplified): pow((pow(pow((pow((X3 + X5), -3.38196) + 1.15825), -4.84701), ((X4 - ((pow(((((X0 + pow(X1, (((X4 - 0.679231) - (pow((X2 - 3.46355), (-5.1458 - X0)) - pow(pow(X4, 5.32945), (X4 - X0)))) - X2))) + (-5.29652 * (-1.5375 + (X0 + -0.492537)))) + ((X0 * X3) + -3.78326)) - X1), -0.838424) * pow(pow(X2, -0.126653), ((X4 - 4.16236) - X2))) + 1.78345)) - X2)) - -1.37192), -0.160898)
+
+Best Individual Nodes Count: 73 - Best Individual Fitness: 14.626756
+Best Individual Error Range: [0.000156171 - 0.240954]
+Best Individual Mean Error: 0.058886
+Best Individual RMS: 0.068367
+Start of generation 9 -------------------------------------------- 9, time: Wed Jun 06 16:44:18 GMT+0200 2007
+
+Best Individual: 325 = pow((pow(pow((pow((X3 + X5), -3.38196) + 1.15825), -4.62657), ((X4 - ((pow(((((X0 + pow(X1, (((X4 - 0.679231) - (pow((X2 - 3.46355), (-5.1458 - X0)) - pow(pow(X4, 5.32945), (X4 - X0)))) - X2))) + (-5.29652 * (-1.5375 + (X0 + -0.492537)))) + ((X0 * X3) + -3.78326)) - X1), -0.838424) * pow(pow(X2, -0.126653), ((X4 - 4.16236) - X2))) + 1.78345)) - X2)) - -1.37192), -0.160898)
+
+Best Individual (simplified): pow((pow(pow((pow((X3 + X5), -3.38196) + 1.15825), -4.62657), ((X4 - ((pow(((((X0 + pow(X1, (((X4 - 0.679231) - (pow((X2 - 3.46355), (-5.1458 - X0)) - pow(pow(X4, 5.32945), (X4 - X0)))) - X2))) + (-5.29652 * (-1.5375 + (X0 + -0.492537)))) + ((X0 * X3) + -3.78326)) - X1), -0.838424) * pow(pow(X2, -0.126653), ((X4 - 4.16236) - X2))) + 1.78345)) - X2)) - -1.37192), -0.160898)
+
+Best Individual Nodes Count: 73 - Best Individual Fitness: 15.047407
+Best Individual Error Range: [8.31942e-06 - 0.240111]
+Best Individual Mean Error: 0.058277
+Best Individual RMS: 0.066456
+Start of generation 10 -------------------------------------------- 10, time: Wed Jun 06 16:48:23 GMT+0200 2007
+
+Best Individual: 193 = pow((pow(pow((pow((X3 + X5), -3.38196) + 1.15825), -4.62657), ((X4 - ((pow(((((X0 + pow(X1, (((X4 - 0.679231) - (pow((X2 - 3.46355), (-5.1458 - X0)) - pow(pow(X4, 5.32945), (X4 - X0)))) - X2))) + (-5.29652 * (-1.5375 + (X0 + -0.492537)))) + ((X0 * X3) + -3.78326)) - X1), -0.838424) * pow(pow(X2, -0.126653), ((X4 - 4.16236) - X2))) + 1.78345)) - X2)) - -1.37192), -0.157015)
+
+Best Individual (simplified): pow((pow(pow((pow((X3 + X5), -3.38196) + 1.15825), -4.62657), ((X4 - ((pow(((((X0 + pow(X1, (((X4 - 0.679231) - (pow((X2 - 3.46355), (-5.1458 - X0)) - pow(pow(X4, 5.32945), (X4 - X0)))) - X2))) + (-5.29652 * (-1.5375 + (X0 + -0.492537)))) + ((X0 * X3) + -3.78326)) - X1), -0.838424) * pow(pow(X2, -0.126653), ((X4 - 4.16236) - X2))) + 1.78345)) - X2)) - -1.37192), -0.157015)
+
+Best Individual Nodes Count: 73 - Best Individual Fitness: 15.170447
+Best Individual Error Range: [0.000305169 - 0.242615]
+Best Individual Mean Error: 0.057620
+Best Individual RMS: 0.065917
+Start of generation 11 -------------------------------------------- 11, time: Wed Jun 06 16:52:45 GMT+0200 2007
+
+Best Individual: 3348 = pow((pow(pow((pow((X3 + X5), -3.38196) + 1.15825), -4.62657), ((X4 - ((pow(((((X0 + pow(X1, (((X4 - 0.679231) - (pow((X2 - 3.46355), (-5.1458 - X0)) - pow(pow(X4, 5.32945), (X4 - X0)))) - X2))) + (-5.29652 * (-1.5375 + (X0 + -0.492537)))) + pow(pow(X2, -0.126653), ((X4 - 4.16236) - X2))) - X2), -0.838424) * pow(pow(X2, -0.126653), ((X4 - 4.16236) - X2))) + 1.78345)) - X2)) - -1.37192), -0.160898)
+
+Best Individual (simplified): pow((pow(pow((pow((X3 + X5), -3.38196) + 1.15825), -4.62657), ((X4 - ((pow(((((X0 + pow(X1, (((X4 - 0.679231) - (pow((X2 - 3.46355), (-5.1458 - X0)) - pow(pow(X4, 5.32945), (X4 - X0)))) - X2))) + (-5.29652 * (-1.5375 + (X0 + -0.492537)))) + pow(pow(X2, -0.126653), ((X4 - 4.16236) - X2))) - X2), -0.838424) * pow(pow(X2, -0.126653), ((X4 - 4.16236) - X2))) + 1.78345)) - X2)) - -1.37192), -0.160898)
+
+Best Individual Nodes Count: 77 - Best Individual Fitness: 15.703163
+Best Individual Error Range: [5.45524e-05 - 0.240111]
+Best Individual Mean Error: 0.052805
+Best Individual RMS: 0.063681
+Start of generation 12 -------------------------------------------- 12, time: Wed Jun 06 16:57:30 GMT+0200 2007
+
+Best Individual: 229 = pow((pow(pow((pow((X3 + X5), -3.38196) + 1.15825), -4.62657), ((X4 - ((pow(((((X0 + pow(3.50377, (((X4 - 0.679231) - (pow((X2 - 3.46355), (-5.1458 - X0)) - pow((X4 - 5.32945), (X4 - X0)))) - X2))) + (-5.29652 * (-1.5375 + (X0 + -0.492537)))) + pow(pow(X2, -0.126653), ((X4 - 4.16236) - X2))) - X2), -0.838424) * pow(pow(X2, -0.126653), ((X4 - 4.2287) - X2))) + 1.78345)) - X2)) - -1.37192), -0.160898)
+
+Best Individual (simplified): pow((pow(pow((pow((X3 + X5), -3.38196) + 1.15825), -4.62657), ((X4 - ((pow(((((X0 + pow(3.50377, (((X4 - 0.679231) - (pow((X2 - 3.46355), (-5.1458 - X0)) - pow((X4 - 5.32945), (X4 - X0)))) - X2))) + (-5.29652 * (-1.5375 + (X0 + -0.492537)))) + pow(pow(X2, -0.126653), ((X4 - 4.16236) - X2))) - X2), -0.838424) * pow(pow(X2, -0.126653), ((X4 - 4.2287) - X2))) + 1.78345)) - X2)) - -1.37192), -0.160898)
+
+Best Individual Nodes Count: 77 - Best Individual Fitness: 16.014194
+Best Individual Error Range: [6.48212e-05 - 0.240111]
+Best Individual Mean Error: 0.051812
+Best Individual RMS: 0.062444
+Start of generation 13 -------------------------------------------- 13, time: Wed Jun 06 17:02:39 GMT+0200 2007
+
+Best Individual: 209 = pow((pow(pow((pow((X3 + X5), -3.38196) + 1.15825), -4.62657), ((X4 - ((pow(((((X0 + pow(3.50377, (((X4 - 0.679231) - (pow((X2 - 3.46355), (-5.1458 - X0)) - pow((X4 - 5.32945), (X4 - X0)))) - X2))) + (-5.29652 * (-1.55844 + (X0 + -0.492537)))) + pow(pow(X2, -0.126653), ((X4 - 4.16236) - X2))) - X2), -0.838424) * pow(pow(X2, -0.126653), ((X4 - 4.2287) - X2))) + 1.78345)) - X2)) - -1.09682), -0.160898)
+
+Best Individual (simplified): pow((pow(pow((pow((X3 + X5), -3.38196) + 1.15825), -4.62657), ((X4 - ((pow(((((X0 + pow(3.50377, (((X4 - 0.679231) - (pow((X2 - 3.46355), (-5.1458 - X0)) - pow((X4 - 5.32945), (X4 - X0)))) - X2))) + (-5.29652 * (-1.55844 + (X0 + -0.492537)))) + pow(pow(X2, -0.126653), ((X4 - 4.16236) - X2))) - X2), -0.838424) * pow(pow(X2, -0.126653), ((X4 - 4.2287) - X2))) + 1.78345)) - X2)) - -1.09682), -0.160898)
+
+Best Individual Nodes Count: 77 - Best Individual Fitness: 16.340649
+Best Individual Error Range: [6.48137e-05 - 0.260861]
+Best Individual Mean Error: 0.050526
+Best Individual RMS: 0.061197
+Start of generation 14 -------------------------------------------- 14, time: Wed Jun 06 17:07:43 GMT+0200 2007
+
+Best Individual: 43 = pow((pow(pow((pow((X3 + X5), -3.38196) + 1.15825), -4.62657), ((X4 - ((pow(((((X0 + pow(3.50377, (((X4 - 0.679231) - (pow((X2 - 3.46355), (-5.1458 - X0)) - pow((X4 - 5.32945), (X4 - X0)))) - X2))) + (-5.29652 * (-1.55844 + (X0 + -0.492537)))) + pow(pow(X2, -0.126653), ((X4 - 3.87773) - X2))) - X2), -0.838424) * pow(pow(X2, -0.126653), ((X4 - 4.2287) - X2))) + 1.78345)) - X2)) - -1.09682), -0.160898)
+
+Best Individual (simplified): pow((pow(pow((pow((X3 + X5), -3.38196) + 1.15825), -4.62657), ((X4 - ((pow(((((X0 + pow(3.50377, (((X4 - 0.679231) - (pow((X2 - 3.46355), (-5.1458 - X0)) - pow((X4 - 5.32945), (X4 - X0)))) - X2))) + (-5.29652 * (-1.55844 + (X0 + -0.492537)))) + pow(pow(X2, -0.126653), ((X4 - 3.87773) - X2))) - X2), -0.838424) * pow(pow(X2, -0.126653), ((X4 - 4.2287) - X2))) + 1.78345)) - X2)) - -1.09682), -0.160898)
+
+Best Individual Nodes Count: 77 - Best Individual Fitness: 16.432002
+Best Individual Error Range: [5.82345e-05 - 0.260861]
+Best Individual Mean Error: 0.049499
+Best Individual RMS: 0.060856
+Start of generation 15 -------------------------------------------- 15, time: Wed Jun 06 17:12:39 GMT+0200 2007
+
+Best Individual: 95 = pow((pow(pow((pow((X3 + X5), -3.38196) + 1.15825), -4.62657), ((X4 - ((pow(((((-3.06639 + pow(3.50377, (((X4 - 0.679231) - (pow((X2 - 3.46355), (-5.1458 - X0)) - pow((X4 - 5.32945), (X4 - X0)))) - X2))) + (-5.29652 * (-1.55844 + (X0 + -0.492537)))) + pow(pow(X2, -0.126653), ((X4 - 3.87773) - X2))) - X2), -0.838424) * pow(pow(X2, -0.126653), ((X4 - 4.2287) - X2))) + 1.78345)) - X2)) - -1.09682), -0.160898)
+
+Best Individual (simplified): pow((pow(pow((pow((X3 + X5), -3.38196) + 1.15825), -4.62657), ((X4 - ((pow(((((-3.06639 + pow(3.50377, (((X4 - 0.679231) - (pow((X2 - 3.46355), (-5.1458 - X0)) - pow((X4 - 5.32945), (X4 - X0)))) - X2))) + (-5.29652 * (-1.55844 + (X0 + -0.492537)))) + pow(pow(X2, -0.126653), ((X4 - 3.87773) - X2))) - X2), -0.838424) * pow(pow(X2, -0.126653), ((X4 - 4.2287) - X2))) + 1.78345)) - X2)) - -1.09682), -0.160898)
+
+Best Individual Nodes Count: 77 - Best Individual Fitness: 16.432624
+Best Individual Error Range: [8.06085e-05 - 0.260861]
+Best Individual Mean Error: 0.049491
+Best Individual RMS: 0.060854
+Start of generation 16 -------------------------------------------- 16, time: Wed Jun 06 17:17:38 GMT+0200 2007
+
+Best Individual: 23297 = pow((pow(pow((pow((X3 + X5), -3.38196) + 1.15825), -4.62657), ((X4 - ((pow(((((X0 + pow(3.50377, (((X4 - 0.679231) - (pow((X2 - 3.46355), (-5.1458 - X0)) - pow((X4 - 5.32945), (X4 - X0)))) - X2))) + (-5.29652 * (-1.55844 + (X3 + X5)))) + pow(pow(X2, -0.126653), ((X4 - 3.87773) - X2))) - X2), -0.838424) * pow(pow(X2, -0.126653), ((X4 - 4.2287) - X2))) + 1.78345)) - X2)) - -1.09682), -0.160898)
+
+Best Individual (simplified): pow((pow(pow((pow((X3 + X5), -3.38196) + 1.15825), -4.62657), ((X4 - ((pow(((((X0 + pow(3.50377, (((X4 - 0.679231) - (pow((X2 - 3.46355), (-5.1458 - X0)) - pow((X4 - 5.32945), (X4 - X0)))) - X2))) + (-5.29652 * (-1.55844 + (X3 + X5)))) + pow(pow(X2, -0.126653), ((X4 - 3.87773) - X2))) - X2), -0.838424) * pow(pow(X2, -0.126653), ((X4 - 4.2287) - X2))) + 1.78345)) - X2)) - -1.09682), -0.160898)
+
+Best Individual Nodes Count: 77 - Best Individual Fitness: 16.436296
+Best Individual Error Range: [1.74789e-05 - 0.260861]
+Best Individual Mean Error: 0.049440
+Best Individual RMS: 0.060841
+Start of generation 17 -------------------------------------------- 17, time: Wed Jun 06 17:22:49 GMT+0200 2007
+
+Best Individual: 91 = pow((pow(pow((pow((X3 + X5), -3.38196) + 1.15825), -4.62657), ((X4 - ((pow(((((X0 + pow(3.50377, (((X4 - 0.679231) - (pow((X2 - 3.46355), (-5.1458 - X0)) - pow((X5 - 5.32945), (X4 - X0)))) - X2))) + (-5.29652 * (X4 + (X3 + X5)))) + pow(pow(X2, -0.126653), ((X4 - 3.87773) - X2))) - X2), -0.838424) * pow(pow(X2, -0.126653), ((X4 - 4.2287) - X2))) + 1.78345)) - X2)) - -1.09682), -0.160898)
+
+Best Individual (simplified): pow((pow(pow((pow((X3 + X5), -3.38196) + 1.15825), -4.62657), ((X4 - ((pow(((((X0 + pow(3.50377, (((X4 - 0.679231) - (pow((X2 - 3.46355), (-5.1458 - X0)) - pow((X5 - 5.32945), (X4 - X0)))) - X2))) + (-5.29652 * (X4 + (X3 + X5)))) + pow(pow(X2, -0.126653), ((X4 - 3.87773) - X2))) - X2), -0.838424) * pow(pow(X2, -0.126653), ((X4 - 4.2287) - X2))) + 1.78345)) - X2)) - -1.09682), -0.160898)
+
+Best Individual Nodes Count: 77 - Best Individual Fitness: 16.439433
+Best Individual Error Range: [3.78217e-06 - 0.260861]
+Best Individual Mean Error: 0.049400
+Best Individual RMS: 0.060829
+Start of generation 18 -------------------------------------------- 18, time: Wed Jun 06 17:28:03 GMT+0200 2007
+
+Best Individual: 35 = pow((pow(pow((pow((X3 + X5), -3.38196) + 1.15825), -4.43124), ((X4 - ((pow(((((X0 + pow(3.50377, (((X4 - 0.679231) - (pow((X2 - 3.46355), (-5.1458 - X0)) - pow((X5 - 5.32945), (X4 - X0)))) - X2))) + (-5.29652 * (X4 + (X3 + X5)))) + pow(pow(X2, -0.126653), ((X4 - 3.87773) - X2))) - X2), -0.838424) * pow(pow(X2, -0.126653), ((X4 - 4.2287) - X2))) + 1.78345)) - X2)) - -1.09682), -0.160898)
+
+Best Individual (simplified): pow((pow(pow((pow((X3 + X5), -3.38196) + 1.15825), -4.43124), ((X4 - ((pow(((((X0 + pow(3.50377, (((X4 - 0.679231) - (pow((X2 - 3.46355), (-5.1458 - X0)) - pow((X5 - 5.32945), (X4 - X0)))) - X2))) + (-5.29652 * (X4 + (X3 + X5)))) + pow(pow(X2, -0.126653), ((X4 - 3.87773) - X2))) - X2), -0.838424) * pow(pow(X2, -0.126653), ((X4 - 4.2287) - X2))) + 1.78345)) - X2)) - -1.09682), -0.160898)
+
+Best Individual Nodes Count: 77 - Best Individual Fitness: 16.604449
+Best Individual Error Range: [5.04505e-06 - 0.25997]
+Best Individual Mean Error: 0.048872
+Best Individual RMS: 0.060224
+Start of generation 19 -------------------------------------------- 19, time: Wed Jun 06 17:33:11 GMT+0200 2007
+
+Best Individual: 407 = pow((pow(pow((pow((X3 + X5), -3.38196) + 1.15825), -4.43124), ((X4 - ((pow(((((X0 + pow(3.50377, (((X4 - 0.679231) - (pow((X2 - 3.46355), (-5.1458 - X0)) - pow((X5 - 5.32945), (X4 - X0)))) - X2))) + (-5.29652 * (X4 + (X3 + X5)))) + pow(pow(X0, -0.126653), ((X4 - 3.87773) - X2))) - X2), -0.838424) * pow(pow(X2, -0.126653), ((X4 - 4.2287) - X2))) + 1.78345)) - X2)) - -1.09682), -0.160898)
+
+Best Individual (simplified): pow((pow(pow((pow((X3 + X5), -3.38196) + 1.15825), -4.43124), ((X4 - ((pow(((((X0 + pow(3.50377, (((X4 - 0.679231) - (pow((X2 - 3.46355), (-5.1458 - X0)) - pow((X5 - 5.32945), (X4 - X0)))) - X2))) + (-5.29652 * (X4 + (X3 + X5)))) + pow(pow(X0, -0.126653), ((X4 - 3.87773) - X2))) - X2), -0.838424) * pow(pow(X2, -0.126653), ((X4 - 4.2287) - X2))) + 1.78345)) - X2)) - -1.09682), -0.160898)
+
+Best Individual Nodes Count: 77 - Best Individual Fitness: 16.613892
+Best Individual Error Range: [2.14615e-05 - 0.25997]
+Best Individual Mean Error: 0.048700
+Best Individual RMS: 0.060190
+Start of generation 20 -------------------------------------------- 20, time: Wed Jun 06 17:38:23 GMT+0200 2007
+
+Best Individual: 483 = pow((pow(pow((pow((X3 + X5), -3.38196) + 1.15825), -4.43124), ((X4 - ((pow(((((X0 + pow(3.50377, (((X4 - 0.679231) - (pow((X2 - 3.46355), (-5.1458 - X0)) - pow((X5 - 5.32945), (X4 - X0)))) - X2))) + (-5.29652 * (X4 + (X3 + X5)))) + pow(pow(X0, -0.126653), ((X4 - 3.87773) - X2))) - X2), -0.838424) * pow(pow(X2, -0.126653), ((X4 - 4.24563) - X2))) + 1.78345)) - X2)) - -1.09682), -0.160898)
+
+Best Individual (simplified): pow((pow(pow((pow((X3 + X5), -3.38196) + 1.15825), -4.43124), ((X4 - ((pow(((((X0 + pow(3.50377, (((X4 - 0.679231) - (pow((X2 - 3.46355), (-5.1458 - X0)) - pow((X5 - 5.32945), (X4 - X0)))) - X2))) + (-5.29652 * (X4 + (X3 + X5)))) + pow(pow(X0, -0.126653), ((X4 - 3.87773) - X2))) - X2), -0.838424) * pow(pow(X2, -0.126653), ((X4 - 4.24563) - X2))) + 1.78345)) - X2)) - -1.09682), -0.160898)
+
+Best Individual Nodes Count: 77 - Best Individual Fitness: 16.616686
+Best Individual Error Range: [5.81951e-05 - 0.25997]
+Best Individual Mean Error: 0.048655
+Best Individual RMS: 0.060180
+Start of generation 21 -------------------------------------------- 21, time: Wed Jun 06 17:43:42 GMT+0200 2007
+
+Best Individual: 243 = pow((pow(pow((pow((X3 + X5), -3.38196) + 1.15825), -4.43124), ((X4 - ((pow((((pow(X0, pow(3.50377, (((X4 - 0.679231) - (pow((X2 - 3.46355), (-5.1458 - X0)) - pow((X5 - 5.32945), (X4 - X0)))) - X2))) + (-5.29652 * (X4 + (X3 + X5)))) + pow(pow(X0, -0.126653), ((X4 - 3.87773) - X2))) - X2), -0.838424) * pow(pow(X2, -0.126653), ((X4 - 4.24563) - X2))) + 1.78345)) - X2)) - -1.09682), -0.160898)
+
+Best Individual (simplified): pow((pow(pow((pow((X3 + X5), -3.38196) + 1.15825), -4.43124), ((X4 - ((pow((((pow(X0, pow(3.50377, (((X4 - 0.679231) - (pow((X2 - 3.46355), (-5.1458 - X0)) - pow((X5 - 5.32945), (X4 - X0)))) - X2))) + (-5.29652 * (X4 + (X3 + X5)))) + pow(pow(X0, -0.126653), ((X4 - 3.87773) - X2))) - X2), -0.838424) * pow(pow(X2, -0.126653), ((X4 - 4.24563) - X2))) + 1.78345)) - X2)) - -1.09682), -0.160898)
+
+Best Individual Nodes Count: 77 - Best Individual Fitness: 16.617545
+Best Individual Error Range: [2.51474e-05 - 0.25997]
+Best Individual Mean Error: 0.048645
+Best Individual RMS: 0.060177
+Start of generation 22 -------------------------------------------- 22, time: Wed Jun 06 17:48:47 GMT+0200 2007
+
+Best Individual: 3034 = pow((pow(pow((pow((X3 + X5), -3.38196) + 1.15825), -4.43124), ((X4 - ((pow((((((-5.29652 * (-1.55844 + (X0 + (X4 - 1.39724)))) + pow(3.50377, (((X4 - 0.679231) - (pow((X2 - 3.46355), (-5.1458 - X0)) - pow((X5 - 5.32945), (X4 - X0)))) - X2))) + (-5.29652 * (X4 + (X3 + -4.84701)))) + pow(pow(X0, -0.126653), ((X4 - 3.87773) - X2))) - X2), -0.838424) * pow(pow(X2, -0.126653), ((X4 - 4.2287) - X2))) + 1.78345)) - X2)) - -1.09682), -0.160898)
+
+Best Individual (simplified): pow((pow(pow((pow((X3 + X5), -3.38196) + 1.15825), -4.43124), ((X4 - ((pow((((((-5.29652 * (-1.55844 + (X0 + (X4 - 1.39724)))) + pow(3.50377, (((X4 - 0.679231) - (pow((X2 - 3.46355), (-5.1458 - X0)) - pow((X5 - 5.32945), (X4 - X0)))) - X2))) + (-5.29652 * (X4 + (X3 + -4.84701)))) + pow(pow(X0, -0.126653), ((X4 - 3.87773) - X2))) - X2), -0.838424) * pow(pow(X2, -0.126653), ((X4 - 4.2287) - X2))) + 1.78345)) - X2)) - -1.09682), -0.160898)
+
+Best Individual Nodes Count: 85 - Best Individual Fitness: 16.619480
+Best Individual Error Range: [5.41825e-05 - 0.25997]
+Best Individual Mean Error: 0.048645
+Best Individual RMS: 0.060170
+Start of generation 23 -------------------------------------------- 23, time: Wed Jun 06 17:54:15 GMT+0200 2007
+
+Best Individual: 15880 = pow((pow(pow((pow(pow(X3, X5), -3.38196) + 1.15825), -4.62657), ((X4 - ((pow(((((X0 + pow(X1, (((X4 - 0.679231) - (pow((X2 - X4), (X0 - ((X4 - 0.679231) - (pow((X2 - 3.46355), (-5.1458 - X0)) - pow((X4 - 5.32945), (X4 - X0)))))) - pow(pow((X4 - 2.16404), 5.32945), (X4 - X0)))) - X2))) + (-5.29652 * -1.55844)) + pow(pow(X2, -0.126653), ((X4 - 4.16236) - X2))) - X2), -0.838424) * pow(pow(X2, -0.126653), ((X4 - 4.16236) - X2))) + 1.78345)) - X2)) - -1.37192), -0.160898)
+
+Best Individual (simplified): pow((pow(pow((pow(pow(X3, X5), -3.38196) + 1.15825), -4.62657), ((X4 - ((pow(((((X0 + pow(X1, (((X4 - 0.679231) - (pow((X2 - X4), (X0 - ((X4 - 0.679231) - (pow((X2 - 3.46355), (-5.1458 - X0)) - pow((X4 - 5.32945), (X4 - X0)))))) - pow(pow((X4 - 2.16404), 5.32945), (X4 - X0)))) - X2))) + 8.25431) + pow(pow(X2, -0.126653), ((X4 - 4.16236) - X2))) - X2), -0.838424) * pow(pow(X2, -0.126653), ((X4 - 4.16236) - X2))) + 1.78345)) - X2)) - -1.37192), -0.160898)
+
+Best Individual Nodes Count: 93 - Best Individual Fitness: 17.481897
+Best Individual Error Range: [7.71944e-06 - 0.240111]
+Best Individual Mean Error: 0.046925
+Best Individual RMS: 0.057202
+Start of generation 24 -------------------------------------------- 24, time: Wed Jun 06 18:00:04 GMT+0200 2007
+
+Best Individual: 69 = pow((pow(pow((pow(pow(X3, X5), -3.38196) + 1.15825), -4.62657), ((X4 - ((pow(((((X0 + pow(X1, (((X4 - 0.679231) - (pow((X2 - X4), (X0 - ((X4 * 0.679231) - (pow((X2 - 3.46355), (-5.1458 - X0)) - pow((X4 - 2.32987), (X4 - X0)))))) - pow(pow((X4 - 2.16404), 5.32945), (X4 - X0)))) - X2))) + (-5.29652 * -1.55844)) + pow(pow(X2, -0.126653), ((X4 - 4.16236) - X2))) - X2), -0.838424) * pow(pow(X2, -0.126653), ((X4 - 4.16236) - X2))) + 1.78345)) - X2)) - -1.37192), -0.160898)
+
+Best Individual (simplified): pow((pow(pow((pow(pow(X3, X5), -3.38196) + 1.15825), -4.62657), ((X4 - ((pow(((((X0 + pow(X1, (((X4 - 0.679231) - (pow((X2 - X4), (X0 - ((X4 * 0.679231) - (pow((X2 - 3.46355), (-5.1458 - X0)) - pow((X4 - 2.32987), (X4 - X0)))))) - pow(pow((X4 - 2.16404), 5.32945), (X4 - X0)))) - X2))) + 8.25431) + pow(pow(X2, -0.126653), ((X4 - 4.16236) - X2))) - X2), -0.838424) * pow(pow(X2, -0.126653), ((X4 - 4.16236) - X2))) + 1.78345)) - X2)) - -1.37192), -0.160898)
+
+Best Individual Nodes Count: 93 - Best Individual Fitness: 17.837906
+Best Individual Error Range: [7.71944e-06 - 0.240111]
+Best Individual Mean Error: 0.046381
+Best Individual RMS: 0.056060
+Start of generation 25 -------------------------------------------- 25, time: Wed Jun 06 18:05:20 GMT+0200 2007
+
+Best Individual: 55 = pow((pow(pow((pow(pow(X3, X5), -3.38196) + 1.15825), -4.62657), ((X4 - ((pow(((((X2 + pow(X1, (((X4 - 0.679231) - (pow((X2 - X4), (X0 - ((X4 * 0.679231) - (pow((X2 - 3.46355), (-5.1458 - X0)) - pow((X4 - 2.32987), (X4 - X0)))))) - pow(pow((X4 - 2.16404), 5.32945), (X4 - X0)))) - X2))) + (-5.29652 * -1.55844)) + pow(pow(X2, -0.126653), ((X4 - 4.16236) - X2))) - X2), -0.838424) * pow(pow(X2, -0.126653), ((X4 - 4.25965) - X2))) + 1.78345)) - X2)) - -1.37192), -0.160898)
+
+Best Individual (simplified): pow((pow(pow((pow(pow(X3, X5), -3.38196) + 1.15825), -4.62657), ((X4 - ((pow(((((X2 + pow(X1, (((X4 - 0.679231) - (pow((X2 - X4), (X0 - ((X4 * 0.679231) - (pow((X2 - 3.46355), (-5.1458 - X0)) - pow((X4 - 2.32987), (X4 - X0)))))) - pow(pow((X4 - 2.16404), 5.32945), (X4 - X0)))) - X2))) + 8.25431) + pow(pow(X2, -0.126653), ((X4 - 4.16236) - X2))) - X2), -0.838424) * pow(pow(X2, -0.126653), ((X4 - 4.25965) - X2))) + 1.78345)) - X2)) - -1.37192), -0.160898)
+
+Best Individual Nodes Count: 93 - Best Individual Fitness: 18.000375
+Best Individual Error Range: [4.40167e-05 - 0.240111]
+Best Individual Mean Error: 0.045503
+Best Individual RMS: 0.055554
+Start of generation 26 -------------------------------------------- 26, time: Wed Jun 06 18:10:28 GMT+0200 2007
+
+Best Individual: 2484 = pow((pow(pow((pow(pow(X3, X5), -3.38196) + 1.15825), -4.62657), ((X4 - ((pow(((((X0 + pow(X1, (((X4 - 0.679231) - (pow((X2 - X4), (X0 - ((X4 * 0.679231) - (pow((X2 - 3.46355), (-5.1458 - X0)) - pow((X5 - 2.32987), (X4 - X0)))))) - pow(pow((X4 - 2.16404), 5.32945), (X4 - X0)))) - X2))) + (-5.29652 * -1.55844)) + pow(pow(X2, -0.126653), ((X4 - 4.16236) - X2))) - X2), -0.838424) * pow(pow(X2, -0.126653), ((X4 - 4.21559) - X2))) + 0.917668)) - X2)) - -1.37192), -0.160898)
+
+Best Individual (simplified): pow((pow(pow((pow(pow(X3, X5), -3.38196) + 1.15825), -4.62657), ((X4 - ((pow(((((X0 + pow(X1, (((X4 - 0.679231) - (pow((X2 - X4), (X0 - ((X4 * 0.679231) - (pow((X2 - 3.46355), (-5.1458 - X0)) - pow((X5 - 2.32987), (X4 - X0)))))) - pow(pow((X4 - 2.16404), 5.32945), (X4 - X0)))) - X2))) + 8.25431) + pow(pow(X2, -0.126653), ((X4 - 4.16236) - X2))) - X2), -0.838424) * pow(pow(X2, -0.126653), ((X4 - 4.21559) - X2))) + 0.917668)) - X2)) - -1.37192), -0.160898)
+
+Best Individual Nodes Count: 93 - Best Individual Fitness: 19.493545
+Best Individual Error Range: [5.58265e-06 - 0.263488]
+Best Individual Mean Error: 0.039275
+Best Individual RMS: 0.051299
+Start of generation 27 -------------------------------------------- 27, time: Wed Jun 06 18:15:57 GMT+0200 2007
+
+Best Individual: 61 = pow((pow(pow((pow((X3 + X5), -3.38196) + 1.15825), -4.62657), ((X4 - ((pow(((((X0 + pow(X1, (((X4 - 0.679231) - (pow((X2 - X4), (X0 - ((X4 * 0.679231) - (pow((X2 - 3.46355), (-5.1458 - X0)) - pow((X5 - 2.32987), (X4 - X0)))))) - pow(pow((X4 - 2.16404), 5.32945), (X4 - X0)))) - X2))) + (-5.29652 * -1.55844)) + pow(pow(X2, -0.126653), ((X4 - 4.16236) - X2))) - X2), -0.838424) * pow(pow(X2, -0.126653), ((X4 - 4.42148) - X2))) + 0.917668)) - X2)) - -1.37192), -0.160898)
+
+Best Individual (simplified): pow((pow(pow((pow((X3 + X5), -3.38196) + 1.15825), -4.62657), ((X4 - ((pow(((((X0 + pow(X1, (((X4 - 0.679231) - (pow((X2 - X4), (X0 - ((X4 * 0.679231) - (pow((X2 - 3.46355), (-5.1458 - X0)) - pow((X5 - 2.32987), (X4 - X0)))))) - pow(pow((X4 - 2.16404), 5.32945), (X4 - X0)))) - X2))) + 8.25431) + pow(pow(X2, -0.126653), ((X4 - 4.16236) - X2))) - X2), -0.838424) * pow(pow(X2, -0.126653), ((X4 - 4.42148) - X2))) + 0.917668)) - X2)) - -1.37192), -0.160898)
+
+Best Individual Nodes Count: 93 - Best Individual Fitness: 19.881483
+Best Individual Error Range: [5.58262e-06 - 0.263488]
+Best Individual Mean Error: 0.037733
+Best Individual RMS: 0.050298
+Start of generation 28 -------------------------------------------- 28, time: Wed Jun 06 18:21:45 GMT+0200 2007
+
+Best Individual: 53 = pow((pow(pow((pow((X3 + X5), -3.38196) + 1.15825), -4.62657), ((X4 - ((pow(((((X0 + pow(X1, (((X4 - 0.679231) - (pow((X2 - X4), (X0 - ((X0 * 0.679231) - (pow((X2 - 3.46355), (-5.1458 - X0)) - pow((X0 - 2.32987), (X4 - X0)))))) - pow(pow((X4 - 2.16404), 5.32945), (X4 - X0)))) - X2))) + (-5.29652 * -1.55844)) + pow(pow(X2, -0.126653), ((X4 - 4.16236) - X2))) - X2), -0.838424) * pow(pow(X2, -0.126653), ((X4 - 4.42148) - X2))) + 0.917668)) - X2)) - -1.37192), -0.160898)
+
+Best Individual (simplified): pow((pow(pow((pow((X3 + X5), -3.38196) + 1.15825), -4.62657), ((X4 - ((pow(((((X0 + pow(X1, (((X4 - 0.679231) - (pow((X2 - X4), (X0 - ((X0 * 0.679231) - (pow((X2 - 3.46355), (-5.1458 - X0)) - pow((X0 - 2.32987), (X4 - X0)))))) - pow(pow((X4 - 2.16404), 5.32945), (X4 - X0)))) - X2))) + 8.25431) + pow(pow(X2, -0.126653), ((X4 - 4.16236) - X2))) - X2), -0.838424) * pow(pow(X2, -0.126653), ((X4 - 4.42148) - X2))) + 0.917668)) - X2)) - -1.37192), -0.160898)
+
+Best Individual Nodes Count: 93 - Best Individual Fitness: 20.096752
+Best Individual Error Range: [5.58262e-06 - 0.263488]
+Best Individual Mean Error: 0.037563
+Best Individual RMS: 0.049759
+Start of generation 29 -------------------------------------------- 29, time: Wed Jun 06 18:27:01 GMT+0200 2007
+
+Best Individual: 315 = pow((pow(pow((pow((X3 + X5), -3.38196) + 1.15825), -4.62657), ((X4 - ((pow(((((X0 + pow(X1, (((X4 - 0.679231) - (pow((X2 - X4), (X0 - ((X0 * 0.679231) - (pow((X2 - 3.46355), (-5.1458 - X0)) - pow((X0 - 2.32987), (X4 - X0)))))) - (pow((X4 - 2.16404), 5.32945) + (X4 - X0)))) - X2))) + (-5.29652 * -1.55844)) + pow(pow(X2, -0.126653), ((X4 - 4.16236) - X2))) - X2), -0.838424) * pow(pow(X2, -0.126653), ((X4 - 4.42148) - X2))) + 0.917668)) - X2)) - -1.16472), -0.160898)
+
+Best Individual (simplified): pow((pow(pow((pow((X3 + X5), -3.38196) + 1.15825), -4.62657), ((X4 - ((pow(((((X0 + pow(X1, (((X4 - 0.679231) - (pow((X2 - X4), (X0 - ((X0 * 0.679231) - (pow((X2 - 3.46355), (-5.1458 - X0)) - pow((X0 - 2.32987), (X4 - X0)))))) - (pow((X4 - 2.16404), 5.32945) + (X4 - X0)))) - X2))) + 8.25431) + pow(pow(X2, -0.126653), ((X4 - 4.16236) - X2))) - X2), -0.838424) * pow(pow(X2, -0.126653), ((X4 - 4.42148) - X2))) + 0.917668)) - X2)) - -1.16472), -0.160898)
+
+Best Individual Nodes Count: 93 - Best Individual Fitness: 20.510938
+Best Individual Error Range: [8.78297e-06 - 0.282143]
+Best Individual Mean Error: 0.036570
+Best Individual RMS: 0.048754
+Dymbolic Regressor 0.2 by Babele Dunnit
+Run Date/Time: Wed Jun 06 18:32:41 GMT+0200 2007
+Population Size: 50000
+Tournament Fights: 5
+Tournament Winners: 25000
+Min-Max Grow Depth: 2 - 20
+Min-Max Grow Nodes: 3 - 110
+Grow Termination Probability: 0.20
+New Population Percents: Mutations 0.01, Crossbreeds 0.49, New Individuals 0.50
+Operators Used: [Add,Sub,Mult,Pow]
+Lines to Regress: 2116
+Problem Dimension: 6, Ranges:
+X0 : [124.274 - 1209.89]
+X1 : [172.668 - 856.906]
+X2 : [135.953 - 1222]
+X3 : [173 - 856.644]
+X4 : [120.496 - 1226.3]
+X5 : [155.202 - 853.117]
+F : [0.05 - 0.95]
+Start of generation 0 -------------------------------------------- 0, time: Wed Jun 06 18:36:32 GMT+0200 2007
+
+Best Individual: 7442 = pow((pow(pow((pow((X3 + X5), -3.38196) + 1.15825), -4.62657), ((X4 - ((pow(((((X0 + pow(X1, (((X4 - 0.679231) - (pow((X2 - X4), (X0 - ((X0 * 0.679231) - (pow((X2 - 3.46355), (-5.1458 - X0)) - pow((X0 - 2.32987), (X4 - X0)))))) - (pow((X4 - 2.16404), 5.32945) + (X4 - X0)))) - X2))) + (-5.29652 * -1.55844)) + pow(pow(X2, -0.126653), ((X4 - 4.16236) - X2))) - X2), -0.838424) * pow(pow(X2, -0.126653), ((X4 - 4.42148) - X2))) + 0.917668)) - X2)) - -1.16472), -0.160898)
+
+Best Individual (simplified): pow((pow(pow((pow((X3 + X5), -3.38196) + 1.15825), -4.62657), ((X4 - ((pow(((((X0 + pow(X1, (((X4 - 0.679231) - (pow((X2 - X4), (X0 - ((X0 * 0.679231) - (pow((X2 - 3.46355), (-5.1458 - X0)) - pow((X0 - 2.32987), (X4 - X0)))))) - (pow((X4 - 2.16404), 5.32945) + (X4 - X0)))) - X2))) + 8.25431) + pow(pow(X2, -0.126653), ((X4 - 4.16236) - X2))) - X2), -0.838424) * pow(pow(X2, -0.126653), ((X4 - 4.42148) - X2))) + 0.917668)) - X2)) - -1.16472), -0.160898)
+
+Best Individual Nodes Count: 93 - Best Individual Fitness: 20.510939
+Best Individual Error Range: [8.76891e-06 - 0.282143]
+Best Individual Mean Error: 0.036570
+Best Individual RMS: 0.048754

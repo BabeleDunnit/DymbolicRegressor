@@ -1,0 +1,122 @@
+# depslib dependency file v1.0
+1181213036 source:c:\aaron\projects\dymbolicregressor\individual.d
+	<std/random.d>
+	<std/stdio.d>
+	<std/math.d>
+	<std/stream.d>
+	<std/conv.d>
+	<operators.d>
+	<regressiondata.d>
+	<rangedetector.d>
+
+1181309735 source:c:\aaron\projects\dymbolicregressor\main.d
+	<std/stdio.d>
+	<std/math.d>
+	<std/moduleinit.d>
+	<std/random.d>
+	<std/string.d>
+	<std/cstream.d>
+	<std/gc.d>
+	<std/cpuid.d>
+	<std/date.d>
+	<std/conv.d>
+	<std/file.d>
+	<std/stream.d>
+	<regressiondata.d>
+	<operators.d>
+	<individual.d>
+	<generation.d>
+	<population.d>
+	<rangedetector.d>
+
+1177058349 c:\aaron\projects\dymbolicregressor\symbolicregressor.d
+
+1177058349 source:c:\aaron\projects\dymbolicregressor\symbolicregressor.d
+	<std/stdio.d>
+	<std/stream.d>
+	<std/string.d>
+	<std/math.d>
+	<std/file.d>
+	<individual.d>
+
+1178274720 source:c:\aaron\projects\dymbolicregressor\generation.d
+
+1181211494 source:c:\aaron\projects\dymbolicregressor\operators.d
+	<std/math.d>
+	<std/random.d>
+	<std/string.d>
+	<std/stdio.d>
+	<std/stream.d>
+	<individual.d>
+
+1181211494 c:\aaron\projects\dymbolicregressor\operators.d
+
+1181213036 c:\aaron\projects\dymbolicregressor\individual.d
+
+1181224120 source:c:\aaron\projects\dymbolicregressor\population.d
+	<std/stdio.d>
+	<std/stream.d>
+	<std/cstream.d>
+	<aaron/thread.d>
+	<std/thread.d>
+	<std/math.d>
+	<std/c/windows/windows.d>
+	<std/date.d>
+	<std/cpuid.d>
+	<std/gc.d>
+	<std/file.d>
+	<std/c/time.d>
+	<individual.d>
+	<operators.d>
+	<regressiondata.d>
+	<main.d>
+
+1178274720 c:\aaron\projects\dymbolicregressor\generation.d
+
+1181224120 c:\aaron\projects\dymbolicregressor\population.d
+
+1178547439 source:c:\aaron\projects\dymbolicregressor\fitnessdata.d
+	<std/stdio.d>
+	<std/stream.d>
+	<std/string.d>
+	<std/math.d>
+	<std/file.d>
+	<individual.d>
+
+1178547439 c:\aaron\projects\dymbolicregressor\fitnessdata.d
+
+1181222182 c:\aaron\projects\dymbolicregressor\regressiondata.d
+
+1181222182 source:c:\aaron\projects\dymbolicregressor\regressiondata.d
+	<std/stdio.d>
+	<std/stream.d>
+	<std/string.d>
+	<std/math.d>
+	<std/random.d>
+	<std/file.d>
+	<individual.d>
+	<rangedetector.d>
+
+1179495416 c:\aaron\projects\dymbolicregressor\thread.d
+
+1179495416 source:c:\aaron\projects\dymbolicregressor\thread.d
+	<std/c/windows/windows.d>
+	<std/stdio.d>
+	<std/c/linux/linux.d>
+	<std/c/linux/linuxextern.d>
+
+1179496072 c:\aaron\projects\dymbolicregressor\aaron\thread.d
+
+1179496072 source:c:\aaron\projects\dymbolicregressor\aaron\thread.d
+	<std/c/windows/windows.d>
+	<std/stdio.d>
+	<std/c/linux/linux.d>
+	<std/c/linux/linuxextern.d>
+
+1180351729 c:\aaron\projects\dymbolicregressor\rangedetector.d
+
+1180351729 source:c:\aaron\projects\dymbolicregressor\rangedetector.d
+	<std/stdio.d>
+
+1181309735 c:\aaron\projects\dymbolicregressor\main.d
+

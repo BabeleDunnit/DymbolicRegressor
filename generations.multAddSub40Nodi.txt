@@ -1,0 +1,769 @@
+Dymbolic Regressor 0.2 by Babele Dunnit
+Run Date/Time: Thu Jun 07 09:37:40 GMT+0200 2007
+Population Size: 50000
+Tournament Fights: 5
+Tournament Winners: 25000
+Min-Max Grow Depth: 2 - 8
+Min-Max Grow Nodes: 3 - 40
+Grow Termination Probability: 0.20
+New Population Percents: Mutations 0.01, Crossbreeds 0.49, New Individuals 0.50
+Operators Used: [Add,Sub,Mult]
+Lines to Regress: 2116
+Problem Dimension: 6, Ranges:
+X0 : [124.274 - 1209.89]
+X1 : [172.668 - 856.906]
+X2 : [135.953 - 1222]
+X3 : [173 - 856.644]
+X4 : [120.496 - 1226.3]
+X5 : [155.202 - 853.117]
+F : [0.05 - 0.95]
+Start of generation 0 -------------------------------------------- 0, time: Thu Jun 07 09:38:01 GMT+0200 2007
+
+Best Individual: 32984 = (((((((-5.68932 - X1) - (X5 - -0.832012)) - ((5.15557 + X1) - (-0.758246 * X4))) * (((1.14435 * X0) * (4.45433 - 3.70314)) + ((X4 - -3.49785) - (1.92706 + X3)))) * -0.712171) * (X1 - X1)) + 0.517966)
+
+Best Individual (simplified): (((((((-5.68932 - X1) - (X5 - -0.832012)) - ((5.15557 + X1) - (-0.758246 * X4))) * (((1.14435 * X0) * 0.751194) + ((X4 - -3.49785) - (1.92706 + X3)))) * -0.712171) * 0) + 0.517966)
+
+Best Individual Nodes Count: 39 - Best Individual Fitness: 2.998033
+Best Individual Error Range: [0.132034 - 0.467966]
+Best Individual Mean Error: 0.297221
+Best Individual RMS: 0.333552
+Start of generation 1 -------------------------------------------- 1, time: Thu Jun 07 09:40:02 GMT+0200 2007
+
+Best Individual: 87 = (((((((-5.68932 - X1) - (X5 - -0.832012)) - ((5.15557 - X1) - (X3 * X4))) * (((1.14435 * X0) * (4.45433 - 3.70314)) + ((X4 - -3.49785) - (1.92706 - X3)))) * -0.712171) * (X1 - X1)) + 0.485705)
+
+Best Individual (simplified): (((((((-5.68932 - X1) - (X5 - -0.832012)) - ((5.15557 - X1) - (X3 * X4))) * (((1.14435 * X0) * 0.751194) + ((X4 - -3.49785) - (1.92706 - X3)))) * -0.712171) * 0) + 0.485705)
+
+Best Individual Nodes Count: 39 - Best Individual Fitness: 3.007064
+Best Individual Error Range: [0.135705 - 0.464295]
+Best Individual Mean Error: 0.296611
+Best Individual RMS: 0.332550
+Start of generation 2 -------------------------------------------- 2, time: Thu Jun 07 09:41:52 GMT+0200 2007
+
+Best Individual: 11280 = ((X1 - -0.316534) - X3)
+
+Best Individual (simplified): ((X1 - -0.316534) - X3)
+
+Best Individual Nodes Count: 5 - Best Individual Fitness: 3.213739
+Best Individual Error Range: [0.000465817 - 1.18247]
+Best Individual Mean Error: 0.244396
+Best Individual RMS: 0.311164
+Start of generation 3 -------------------------------------------- 3, time: Thu Jun 07 09:43:39 GMT+0200 2007
+
+Best Individual: 23881 = (((X1 + 0.398529) - X3) * 0.742585)
+
+Best Individual (simplified): (((X1 + 0.398529) - X3) * 0.742585)
+
+Best Individual Nodes Count: 7 - Best Individual Fitness: 3.582719
+Best Individual Error Range: [0.000154866 - 1.02535]
+Best Individual Mean Error: 0.222478
+Best Individual RMS: 0.279118
+Start of generation 4 -------------------------------------------- 4, time: Thu Jun 07 09:45:29 GMT+0200 2007
+
+Best Individual: 493 = (((X1 + 0.510383) - X3) * 0.742585)
+
+Best Individual (simplified): (((X1 + 0.510383) - X3) * 0.742585)
+
+Best Individual Nodes Count: 7 - Best Individual Fitness: 3.625139
+Best Individual Error Range: [0.000695719 - 0.942289]
+Best Individual Mean Error: 0.221193
+Best Individual RMS: 0.275852
+Start of generation 5 -------------------------------------------- 5, time: Thu Jun 07 09:47:18 GMT+0200 2007
+
+Best Individual: 367 = (((X1 + 0.457713) - X3) * 0.742585)
+
+Best Individual (simplified): (((X1 + 0.457713) - X3) * 0.742585)
+
+Best Individual Nodes Count: 7 - Best Individual Fitness: 3.645931
+Best Individual Error Range: [0.000455584 - 0.981402]
+Best Individual Mean Error: 0.218016
+Best Individual RMS: 0.274278
+Start of generation 6 -------------------------------------------- 6, time: Thu Jun 07 09:49:06 GMT+0200 2007
+
+Best Individual: 119 = (((X1 + 0.476456) - X3) * 0.742585)
+
+Best Individual (simplified): (((X1 + 0.476456) - X3) * 0.742585)
+
+Best Individual Nodes Count: 7 - Best Individual Fitness: 3.646966
+Best Individual Error Range: [0.000101089 - 0.967483]
+Best Individual Mean Error: 0.218075
+Best Individual RMS: 0.274201
+Start of generation 7 -------------------------------------------- 7, time: Thu Jun 07 09:50:57 GMT+0200 2007
+
+Best Individual: 169 = (((X1 + 0.476456) - X3) * 0.649814)
+
+Best Individual (simplified): (((X1 + 0.476456) - X3) * 0.649814)
+
+Best Individual Nodes Count: 7 - Best Individual Fitness: 3.653563
+Best Individual Error Range: [0.000110619 - 0.965299]
+Best Individual Mean Error: 0.219512
+Best Individual RMS: 0.273705
+Start of generation 8 -------------------------------------------- 8, time: Thu Jun 07 09:52:48 GMT+0200 2007
+
+Best Individual: 3118 = ((1.5798 * ((5.96053 + (X4 - X2)) * 0.0187477)) + 0.517966)
+
+Best Individual (simplified): ((1.5798 * ((5.96053 + (X4 - X2)) * 0.0187477)) + 0.517966)
+
+Best Individual Nodes Count: 11 - Best Individual Fitness: 6.319293
+Best Individual Error Range: [7.68326e-05 - 0.335293]
+Best Individual Mean Error: 0.134605
+Best Individual RMS: 0.158246
+Start of generation 9 -------------------------------------------- 9, time: Thu Jun 07 09:54:40 GMT+0200 2007
+
+Best Individual: 93 = ((1.85671 * ((5.96053 + (X4 - X2)) * 0.0187477)) + 0.517966)
+
+Best Individual (simplified): ((1.85671 * ((5.96053 + (X4 - X2)) * 0.0187477)) + 0.517966)
+
+Best Individual Nodes Count: 11 - Best Individual Fitness: 7.493359
+Best Individual Error Range: [0.000283534 - 0.312039]
+Best Individual Mean Error: 0.111931
+Best Individual RMS: 0.133452
+Start of generation 10 -------------------------------------------- 10, time: Thu Jun 07 09:56:33 GMT+0200 2007
+
+Best Individual: 155 = ((1.85671 * ((3.86068 + (X4 - X2)) * 0.0187477)) + 0.517966)
+
+Best Individual (simplified): ((1.85671 * ((3.86068 + (X4 - X2)) * 0.0187477)) + 0.517966)
+
+Best Individual Nodes Count: 11 - Best Individual Fitness: 7.914457
+Best Individual Error Range: [1.99227e-05 - 0.261585]
+Best Individual Mean Error: 0.104627
+Best Individual RMS: 0.126351
+Start of generation 11 -------------------------------------------- 11, time: Thu Jun 07 09:58:23 GMT+0200 2007
+
+Best Individual: 354 = ((2.53986 * ((3.86068 + (X4 - X2)) * 0.0187477)) + 0.517966)
+
+Best Individual (simplified): ((2.53986 * ((3.86068 + (X4 - X2)) * 0.0187477)) + 0.517966)
+
+Best Individual Nodes Count: 11 - Best Individual Fitness: 10.837999
+Best Individual Error Range: [2.00088e-05 - 0.21497]
+Best Individual Mean Error: 0.077595
+Best Individual RMS: 0.092268
+Start of generation 12 -------------------------------------------- 12, time: Thu Jun 07 10:00:11 GMT+0200 2007
+
+Best Individual: 17 = ((2.53986 * ((3.86068 + (X4 - X2)) * 0.0187477)) + 0.595481)
+
+Best Individual (simplified): ((2.53986 * ((3.86068 + (X4 - X2)) * 0.0187477)) + 0.595481)
+
+Best Individual Nodes Count: 11 - Best Individual Fitness: 11.224282
+Best Individual Error Range: [0.000346303 - 0.240261]
+Best Individual Mean Error: 0.074730
+Best Individual RMS: 0.089092
+Start of generation 13 -------------------------------------------- 13, time: Thu Jun 07 10:02:00 GMT+0200 2007
+
+Best Individual: 2719 = ((2.53986 * ((4.45433 + (X4 - X2)) * 0.0187477)) + 0.517966)
+
+Best Individual (simplified): ((2.53986 * ((4.45433 + (X4 - X2)) * 0.0187477)) + 0.517966)
+
+Best Individual Nodes Count: 11 - Best Individual Fitness: 12.028786
+Best Individual Error Range: [5.08587e-05 - 0.191014]
+Best Individual Mean Error: 0.072904
+Best Individual RMS: 0.083133
+Start of generation 14 -------------------------------------------- 14, time: Thu Jun 07 10:03:48 GMT+0200 2007
+
+Best Individual: 5 = ((2.53986 * ((4.6231 + (X4 - X2)) * 0.0187477)) + 0.517966)
+
+Best Individual (simplified): ((2.53986 * ((4.6231 + (X4 - X2)) * 0.0187477)) + 0.517966)
+
+Best Individual Nodes Count: 11 - Best Individual Fitness: 12.173847
+Best Individual Error Range: [2.44476e-06 - 0.19905]
+Best Individual Mean Error: 0.072353
+Best Individual RMS: 0.082143
+Start of generation 15 -------------------------------------------- 15, time: Thu Jun 07 10:05:36 GMT+0200 2007
+
+Best Individual: 13 = ((2.56896 * ((4.6231 + (X4 - X2)) * 0.0187477)) + 0.517966)
+
+Best Individual (simplified): ((2.56896 * ((4.6231 + (X4 - X2)) * 0.0187477)) + 0.517966)
+
+Best Individual Nodes Count: 11 - Best Individual Fitness: 12.219698
+Best Individual Error Range: [0.000260499 - 0.202843]
+Best Individual Mean Error: 0.072789
+Best Individual RMS: 0.081835
+Start of generation 16 -------------------------------------------- 16, time: Thu Jun 07 10:07:25 GMT+0200 2007
+
+Best Individual: 315 = ((2.56896 * ((4.85976 + (X4 - X2)) * 0.0187477)) + 0.517966)
+
+Best Individual (simplified): ((2.56896 * ((4.85976 + (X4 - X2)) * 0.0187477)) + 0.517966)
+
+Best Individual Nodes Count: 11 - Best Individual Fitness: 12.237275
+Best Individual Error Range: [3.04525e-05 - 0.214241]
+Best Individual Mean Error: 0.072674
+Best Individual RMS: 0.081717
+Start of generation 17 -------------------------------------------- 17, time: Thu Jun 07 10:09:14 GMT+0200 2007
+
+Best Individual: 423 = ((2.56896 * ((4.85976 + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual (simplified): ((2.56896 * ((4.85976 + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual Nodes Count: 11 - Best Individual Fitness: 12.250772
+Best Individual Error Range: [3.38238e-05 - 0.206406]
+Best Individual Mean Error: 0.072693
+Best Individual RMS: 0.081627
+Start of generation 18 -------------------------------------------- 18, time: Thu Jun 07 10:11:07 GMT+0200 2007
+
+Best Individual: 275 = ((2.56896 * ((4.93523 + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual (simplified): ((2.56896 * ((4.93523 + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual Nodes Count: 11 - Best Individual Fitness: 12.258540
+Best Individual Error Range: [8.23426e-06 - 0.210041]
+Best Individual Mean Error: 0.072652
+Best Individual RMS: 0.081575
+Start of generation 19 -------------------------------------------- 19, time: Thu Jun 07 10:13:00 GMT+0200 2007
+
+Best Individual: 175 = ((2.58595 * ((4.93523 + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual (simplified): ((2.58595 * ((4.93523 + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual Nodes Count: 11 - Best Individual Fitness: 12.277515
+Best Individual Error Range: [0.000183927 - 0.212356]
+Best Individual Mean Error: 0.072984
+Best Individual RMS: 0.081449
+Start of generation 20 -------------------------------------------- 20, time: Thu Jun 07 10:14:54 GMT+0200 2007
+
+Best Individual: 293 = ((2.61586 * ((4.93523 + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual (simplified): ((2.61586 * ((4.93523 + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual Nodes Count: 11 - Best Individual Fitness: 12.291243
+Best Individual Error Range: [0.000935316 - 0.21643]
+Best Individual Mean Error: 0.073634
+Best Individual RMS: 0.081358
+Start of generation 21 -------------------------------------------- 21, time: Thu Jun 07 10:16:47 GMT+0200 2007
+
+Best Individual: 2 = ((2.61586 * ((4.93523 + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual (simplified): ((2.61586 * ((4.93523 + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual Nodes Count: 11 - Best Individual Fitness: 12.291243
+Best Individual Error Range: [0.000935316 - 0.21643]
+Best Individual Mean Error: 0.073634
+Best Individual RMS: 0.081358
+Start of generation 22 -------------------------------------------- 22, time: Thu Jun 07 10:18:37 GMT+0200 2007
+
+Best Individual: 2 = ((2.61586 * ((4.93523 + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual (simplified): ((2.61586 * ((4.93523 + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual Nodes Count: 11 - Best Individual Fitness: 12.291243
+Best Individual Error Range: [0.000935316 - 0.21643]
+Best Individual Mean Error: 0.073634
+Best Individual RMS: 0.081358
+Start of generation 23 -------------------------------------------- 23, time: Thu Jun 07 10:20:28 GMT+0200 2007
+
+Best Individual: 2 = ((2.61586 * ((4.93523 + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual (simplified): ((2.61586 * ((4.93523 + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual Nodes Count: 11 - Best Individual Fitness: 12.291243
+Best Individual Error Range: [0.000935316 - 0.21643]
+Best Individual Mean Error: 0.073634
+Best Individual RMS: 0.081358
+Start of generation 24 -------------------------------------------- 24, time: Thu Jun 07 10:22:17 GMT+0200 2007
+
+Best Individual: 1 = ((2.61586 * ((4.93523 + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual (simplified): ((2.61586 * ((4.93523 + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual Nodes Count: 11 - Best Individual Fitness: 12.291243
+Best Individual Error Range: [0.000935316 - 0.21643]
+Best Individual Mean Error: 0.073634
+Best Individual RMS: 0.081358
+Start of generation 25 -------------------------------------------- 25, time: Thu Jun 07 10:24:04 GMT+0200 2007
+
+Best Individual: 231 = ((2.61586 * ((4.92321 + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual (simplified): ((2.61586 * ((4.92321 + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual Nodes Count: 11 - Best Individual Fitness: 12.291280
+Best Individual Error Range: [0.000547753 - 0.21584]
+Best Individual Mean Error: 0.073634
+Best Individual RMS: 0.081358
+Start of generation 26 -------------------------------------------- 26, time: Thu Jun 07 10:25:52 GMT+0200 2007
+
+Best Individual: 2 = ((2.61586 * ((4.92321 + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual (simplified): ((2.61586 * ((4.92321 + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual Nodes Count: 11 - Best Individual Fitness: 12.291280
+Best Individual Error Range: [0.000547753 - 0.21584]
+Best Individual Mean Error: 0.073634
+Best Individual RMS: 0.081358
+Start of generation 27 -------------------------------------------- 27, time: Thu Jun 07 10:27:41 GMT+0200 2007
+
+Best Individual: 2 = ((2.61586 * ((4.92321 + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual (simplified): ((2.61586 * ((4.92321 + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual Nodes Count: 11 - Best Individual Fitness: 12.291280
+Best Individual Error Range: [0.000547753 - 0.21584]
+Best Individual Mean Error: 0.073634
+Best Individual RMS: 0.081358
+Start of generation 28 -------------------------------------------- 28, time: Thu Jun 07 10:29:30 GMT+0200 2007
+
+Best Individual: 2 = ((2.61586 * ((4.92321 + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual (simplified): ((2.61586 * ((4.92321 + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual Nodes Count: 11 - Best Individual Fitness: 12.291280
+Best Individual Error Range: [0.000547753 - 0.21584]
+Best Individual Mean Error: 0.073634
+Best Individual RMS: 0.081358
+Start of generation 29 -------------------------------------------- 29, time: Thu Jun 07 10:31:18 GMT+0200 2007
+
+Best Individual: 1 = ((2.61586 * ((4.92321 + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual (simplified): ((2.61586 * ((4.92321 + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual Nodes Count: 11 - Best Individual Fitness: 12.291280
+Best Individual Error Range: [0.000547753 - 0.21584]
+Best Individual Mean Error: 0.073634
+Best Individual RMS: 0.081358
+Start of generation 30 -------------------------------------------- 30, time: Thu Jun 07 10:33:06 GMT+0200 2007
+
+Best Individual: 2 = ((2.61586 * ((4.92321 + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual (simplified): ((2.61586 * ((4.92321 + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual Nodes Count: 11 - Best Individual Fitness: 12.291280
+Best Individual Error Range: [0.000547753 - 0.21584]
+Best Individual Mean Error: 0.073634
+Best Individual RMS: 0.081358
+Start of generation 31 -------------------------------------------- 31, time: Thu Jun 07 10:34:56 GMT+0200 2007
+
+Best Individual: 1 = ((2.61586 * ((4.92321 + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual (simplified): ((2.61586 * ((4.92321 + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual Nodes Count: 11 - Best Individual Fitness: 12.291280
+Best Individual Error Range: [0.000547753 - 0.21584]
+Best Individual Mean Error: 0.073634
+Best Individual RMS: 0.081358
+Start of generation 32 -------------------------------------------- 32, time: Thu Jun 07 10:36:53 GMT+0200 2007
+
+Best Individual: 6036 = ((2.61586 * ((4.92321 + (X4 - X2)) * 0.0187477)) + 0.510383)
+
+Best Individual (simplified): ((2.61586 * ((4.92321 + (X4 - X2)) * 0.0187477)) + 0.510383)
+
+Best Individual Nodes Count: 11 - Best Individual Fitness: 12.291343
+Best Individual Error Range: [0.000800045 - 0.216093]
+Best Individual Mean Error: 0.073634
+Best Individual RMS: 0.081358
+Start of generation 33 -------------------------------------------- 33, time: Thu Jun 07 10:38:52 GMT+0200 2007
+
+Best Individual: 2 = ((2.61586 * ((4.92321 + (X4 - X2)) * 0.0187477)) + 0.510383)
+
+Best Individual (simplified): ((2.61586 * ((4.92321 + (X4 - X2)) * 0.0187477)) + 0.510383)
+
+Best Individual Nodes Count: 11 - Best Individual Fitness: 12.291343
+Best Individual Error Range: [0.000800045 - 0.216093]
+Best Individual Mean Error: 0.073634
+Best Individual RMS: 0.081358
+Start of generation 34 -------------------------------------------- 34, time: Thu Jun 07 10:40:49 GMT+0200 2007
+
+Best Individual: 2 = ((2.61586 * ((4.92321 + (X4 - X2)) * 0.0187477)) + 0.510383)
+
+Best Individual (simplified): ((2.61586 * ((4.92321 + (X4 - X2)) * 0.0187477)) + 0.510383)
+
+Best Individual Nodes Count: 11 - Best Individual Fitness: 12.291343
+Best Individual Error Range: [0.000800045 - 0.216093]
+Best Individual Mean Error: 0.073634
+Best Individual RMS: 0.081358
+Start of generation 35 -------------------------------------------- 35, time: Thu Jun 07 10:42:38 GMT+0200 2007
+
+Best Individual: 2 = ((2.61586 * ((4.92321 + (X4 - X2)) * 0.0187477)) + 0.510383)
+
+Best Individual (simplified): ((2.61586 * ((4.92321 + (X4 - X2)) * 0.0187477)) + 0.510383)
+
+Best Individual Nodes Count: 11 - Best Individual Fitness: 12.291343
+Best Individual Error Range: [0.000800045 - 0.216093]
+Best Individual Mean Error: 0.073634
+Best Individual RMS: 0.081358
+Start of generation 36 -------------------------------------------- 36, time: Thu Jun 07 10:44:27 GMT+0200 2007
+
+Best Individual: 2 = ((2.61586 * ((4.92321 + (X4 - X2)) * 0.0187477)) + 0.510383)
+
+Best Individual (simplified): ((2.61586 * ((4.92321 + (X4 - X2)) * 0.0187477)) + 0.510383)
+
+Best Individual Nodes Count: 11 - Best Individual Fitness: 12.291343
+Best Individual Error Range: [0.000800045 - 0.216093]
+Best Individual Mean Error: 0.073634
+Best Individual RMS: 0.081358
+Start of generation 37 -------------------------------------------- 37, time: Thu Jun 07 10:46:17 GMT+0200 2007
+
+Best Individual: 2 = ((2.61586 * ((4.92321 + (X4 - X2)) * 0.0187477)) + 0.510383)
+
+Best Individual (simplified): ((2.61586 * ((4.92321 + (X4 - X2)) * 0.0187477)) + 0.510383)
+
+Best Individual Nodes Count: 11 - Best Individual Fitness: 12.291343
+Best Individual Error Range: [0.000800045 - 0.216093]
+Best Individual Mean Error: 0.073634
+Best Individual RMS: 0.081358
+Start of generation 38 -------------------------------------------- 38, time: Thu Jun 07 10:48:06 GMT+0200 2007
+
+Best Individual: 13855 = ((2.61586 * (((4.92321 + (((2.80437 * ((4.93523 + (X1 - X2)) * 0.0187477)) * 0.0308713) + 0.485705)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual (simplified): ((2.61586 * (((4.92321 + (((2.80437 * ((4.93523 + (X1 - X2)) * 0.0187477)) * 0.0308713) + 0.485705)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual Nodes Count: 25 - Best Individual Fitness: 13.134375
+Best Individual Error Range: [7.61788e-06 - 0.215958]
+Best Individual Mean Error: 0.063429
+Best Individual RMS: 0.076136
+Start of generation 39 -------------------------------------------- 39, time: Thu Jun 07 10:49:56 GMT+0200 2007
+
+Best Individual: 59 = ((2.61586 * (((4.67954 + (((2.80437 * ((4.93523 + (X1 - X2)) * 0.0187477)) * 0.0308713) + 0.485705)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual (simplified): ((2.61586 * (((4.67954 + (((2.80437 * ((4.93523 + (X1 - X2)) * 0.0187477)) * 0.0308713) + 0.485705)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual Nodes Count: 25 - Best Individual Fitness: 13.291190
+Best Individual Error Range: [2.08287e-05 - 0.222453]
+Best Individual Mean Error: 0.062614
+Best Individual RMS: 0.075237
+Start of generation 40 -------------------------------------------- 40, time: Thu Jun 07 10:51:46 GMT+0200 2007
+
+Best Individual: 135 = ((2.65525 * (((4.67954 + (((2.80437 * ((4.93523 + (X1 - X2)) * 0.0187477)) * 0.0308713) + 0.485705)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual (simplified): ((2.65525 * (((4.67954 + (((2.80437 * ((4.93523 + (X1 - X2)) * 0.0187477)) * 0.0308713) + 0.485705)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual Nodes Count: 25 - Best Individual Fitness: 13.299013
+Best Individual Error Range: [7.9528e-05 - 0.232732]
+Best Individual Mean Error: 0.062788
+Best Individual RMS: 0.075193
+Start of generation 41 -------------------------------------------- 41, time: Thu Jun 07 10:53:35 GMT+0200 2007
+
+Best Individual: 321 = ((2.65525 * (((4.67954 + (((2.80437 * ((4.93523 + (X3 - X2)) * 0.0187477)) * 0.0308713) + 0.485705)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual (simplified): ((2.65525 * (((4.67954 + (((2.80437 * ((4.93523 + (X3 - X2)) * 0.0187477)) * 0.0308713) + 0.485705)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual Nodes Count: 25 - Best Individual Fitness: 13.299266
+Best Individual Error Range: [9.3506e-05 - 0.232672]
+Best Individual Mean Error: 0.062787
+Best Individual RMS: 0.075192
+Start of generation 42 -------------------------------------------- 42, time: Thu Jun 07 10:55:27 GMT+0200 2007
+
+Best Individual: 3199 = ((2.61586 * (((4.92321 + (((2.80437 * (((X1 * 0.485705) + (1.91152 - X2)) * 0.0187477)) * 0.0308713) + 0.485705)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual (simplified): ((2.61586 * (((4.92321 + (((2.80437 * (((X1 * 0.485705) + (1.91152 - X2)) * 0.0187477)) * 0.0308713) + 0.485705)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual Nodes Count: 27 - Best Individual Fitness: 13.728770
+Best Individual Error Range: [3.61072e-05 - 0.218553]
+Best Individual Mean Error: 0.061198
+Best Individual RMS: 0.072839
+Start of generation 43 -------------------------------------------- 43, time: Thu Jun 07 10:57:20 GMT+0200 2007
+
+Best Individual: 279 = ((2.61586 * (((5.18787 + (((2.80437 * (((X1 * 0.485705) + (1.91152 - X2)) * 0.0187477)) * 0.0308713) + 0.485705)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual (simplified): ((2.61586 * (((5.18787 + (((2.80437 * (((X1 * 0.485705) + (1.91152 - X2)) * 0.0187477)) * 0.0308713) + 0.485705)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual Nodes Count: 27 - Best Individual Fitness: 13.839100
+Best Individual Error Range: [6.0953e-05 - 0.205574]
+Best Individual Mean Error: 0.060892
+Best Individual RMS: 0.072259
+Start of generation 44 -------------------------------------------- 44, time: Thu Jun 07 10:59:19 GMT+0200 2007
+
+Best Individual: 241 = ((2.61586 * (((5.18787 + (((2.80437 * (((X1 * 0.177284) + (1.91152 - X2)) * 0.0187477)) * 0.0308713) + 0.485705)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual (simplified): ((2.61586 * (((5.18787 + (((2.80437 * (((X1 * 0.177284) + (1.91152 - X2)) * 0.0187477)) * 0.0308713) + 0.485705)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual Nodes Count: 27 - Best Individual Fitness: 13.957755
+Best Individual Error Range: [4.2417e-05 - 0.210257]
+Best Individual Mean Error: 0.060554
+Best Individual RMS: 0.071644
+Start of generation 45 -------------------------------------------- 45, time: Thu Jun 07 11:01:27 GMT+0200 2007
+
+Best Individual: 163 = ((2.61586 * (((5.18787 + (((2.80437 * (((X1 * 0.177284) + (4.65162 - X2)) * 0.0187477)) * 0.0308713) + 0.485705)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual (simplified): ((2.61586 * (((5.18787 + (((2.80437 * (((X1 * 0.177284) + (4.65162 - X2)) * 0.0187477)) * 0.0308713) + 0.485705)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual Nodes Count: 27 - Best Individual Fitness: 13.963296
+Best Individual Error Range: [7.24371e-05 - 0.210039]
+Best Individual Mean Error: 0.060536
+Best Individual RMS: 0.071616
+Start of generation 46 -------------------------------------------- 46, time: Thu Jun 07 11:03:35 GMT+0200 2007
+
+Best Individual: 223 = ((2.61586 * (((5.28749 + (((2.80437 * (((X1 * 0.177284) + (4.65162 - X2)) * 0.0187477)) * 0.0308713) + 0.485705)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual (simplified): ((2.61586 * (((5.28749 + (((2.80437 * (((X1 * 0.177284) + (4.65162 - X2)) * 0.0187477)) * 0.0308713) + 0.485705)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual Nodes Count: 27 - Best Individual Fitness: 14.054421
+Best Individual Error Range: [2.63347e-05 - 0.205154]
+Best Individual Mean Error: 0.060247
+Best Individual RMS: 0.071152
+Start of generation 47 -------------------------------------------- 47, time: Thu Jun 07 11:05:38 GMT+0200 2007
+
+Best Individual: 6102 = ((2.61586 * (((5.18787 + (((2.80437 * (((X1 * 0.177284) + (4.65162 - X2)) * 0.0187477)) * 0.0308713) + 0.485705)) + (X4 - X2)) * 0.0187477)) + 0.517966)
+
+Best Individual (simplified): ((2.61586 * (((5.18787 + (((2.80437 * (((X1 * 0.177284) + (4.65162 - X2)) * 0.0187477)) * 0.0308713) + 0.485705)) + (X4 - X2)) * 0.0187477)) + 0.517966)
+
+Best Individual Nodes Count: 27 - Best Individual Fitness: 14.077952
+Best Individual Error Range: [5.74308e-05 - 0.202205]
+Best Individual Mean Error: 0.060170
+Best Individual RMS: 0.071033
+Start of generation 48 -------------------------------------------- 48, time: Thu Jun 07 11:07:34 GMT+0200 2007
+
+Best Individual: 22553 = ((2.61586 * (((5.28749 + (((2.80437 * ((((X1 - X2) * 0.177284) + (4.65162 - X2)) * 0.0187477)) * 0.0308713) + 0.783325)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual (simplified): ((2.61586 * (((5.28749 + (((2.80437 * ((((X1 - X2) * 0.177284) + (4.65162 - X2)) * 0.0187477)) * 0.0308713) + 0.783325)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual Nodes Count: 29 - Best Individual Fitness: 14.311238
+Best Individual Error Range: [5.9433e-05 - 0.200977]
+Best Individual Mean Error: 0.058562
+Best Individual RMS: 0.069875
+Start of generation 49 -------------------------------------------- 49, time: Thu Jun 07 11:09:30 GMT+0200 2007
+
+Best Individual: 499 = ((2.61586 * (((5.28749 + (((2.97623 * ((((X1 - X2) * 0.177284) + (4.65162 - X2)) * 0.0187477)) * 0.0308713) + 0.783325)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual (simplified): ((2.61586 * (((5.28749 + (((2.97623 * ((((X1 - X2) * 0.177284) + (4.65162 - X2)) * 0.0187477)) * 0.0308713) + 0.783325)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual Nodes Count: 29 - Best Individual Fitness: 14.376236
+Best Individual Error Range: [3.43707e-05 - 0.205029]
+Best Individual Mean Error: 0.058057
+Best Individual RMS: 0.069559
+Start of generation 50 -------------------------------------------- 50, time: Thu Jun 07 11:11:26 GMT+0200 2007
+
+Best Individual: 123 = ((2.61586 * (((5.28749 + (((3.24072 * ((((X1 - X2) * 0.177284) + (4.65162 - X2)) * 0.0187477)) * 0.0308713) + 0.783325)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual (simplified): ((2.61586 * (((5.28749 + (((3.24072 * ((((X1 - X2) * 0.177284) + (4.65162 - X2)) * 0.0187477)) * 0.0308713) + 0.783325)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual Nodes Count: 29 - Best Individual Fitness: 14.391604
+Best Individual Error Range: [0.000131572 - 0.211266]
+Best Individual Mean Error: 0.057595
+Best Individual RMS: 0.069485
+Start of generation 51 -------------------------------------------- 51, time: Thu Jun 07 11:13:21 GMT+0200 2007
+
+Best Individual: 175 = ((2.61586 * (((5.28749 + (((3.24072 * ((((X1 - X2) * 0.177284) + (4.65162 - X2)) * 0.0187477)) * 0.0308713) + 0.96926)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual (simplified): ((2.61586 * (((5.28749 + (((3.24072 * ((((X1 - X2) * 0.177284) + (4.65162 - X2)) * 0.0187477)) * 0.0308713) + 0.96926)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual Nodes Count: 29 - Best Individual Fitness: 14.480859
+Best Individual Error Range: [1.59212e-05 - 0.202147]
+Best Individual Mean Error: 0.057340
+Best Individual RMS: 0.069056
+Start of generation 52 -------------------------------------------- 52, time: Thu Jun 07 11:15:21 GMT+0200 2007
+
+Best Individual: 249 = ((2.61586 * (((5.26179 + (((3.24072 * ((((X1 - X2) * 0.177284) + (4.65162 - X2)) * 0.0187477)) * 0.0308713) + 0.96926)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual (simplified): ((2.61586 * (((5.26179 + (((3.24072 * ((((X1 - X2) * 0.177284) + (4.65162 - X2)) * 0.0187477)) * 0.0308713) + 0.96926)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual Nodes Count: 29 - Best Individual Fitness: 14.483445
+Best Individual Error Range: [1.25632e-05 - 0.203407]
+Best Individual Mean Error: 0.057329
+Best Individual RMS: 0.069044
+Start of generation 53 -------------------------------------------- 53, time: Thu Jun 07 11:17:17 GMT+0200 2007
+
+Best Individual: 4523 = ((2.61586 * (((5.28749 + (((3.24072 * ((((4.92321 - X2) * 0.177284) + (4.65162 - X2)) * 0.0187477)) * 0.0308713) + 0.96926)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual (simplified): ((2.61586 * (((5.28749 + (((3.24072 * ((((4.92321 - X2) * 0.177284) + (4.65162 - X2)) * 0.0187477)) * 0.0308713) + 0.96926)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual Nodes Count: 29 - Best Individual Fitness: 14.518152
+Best Individual Error Range: [0.000138209 - 0.205178]
+Best Individual Mean Error: 0.057208
+Best Individual RMS: 0.068879
+Start of generation 54 -------------------------------------------- 54, time: Thu Jun 07 11:19:14 GMT+0200 2007
+
+Best Individual: 377 = ((2.61586 * (((5.29859 + (((3.24072 * ((((4.92321 - X2) * 0.177284) + (4.65162 - X2)) * 0.0187477)) * 0.0308713) + 0.96926)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual (simplified): ((2.61586 * (((5.29859 + (((3.24072 * ((((4.92321 - X2) * 0.177284) + (4.65162 - X2)) * 0.0187477)) * 0.0308713) + 0.96926)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual Nodes Count: 29 - Best Individual Fitness: 14.529447
+Best Individual Error Range: [1.01819e-05 - 0.204633]
+Best Individual Mean Error: 0.057175
+Best Individual RMS: 0.068825
+Start of generation 55 -------------------------------------------- 55, time: Thu Jun 07 11:21:14 GMT+0200 2007
+
+Best Individual: 359 = ((2.61586 * (((5.41349 + (((3.24072 * ((((4.92321 - X2) * 0.177284) + (4.65162 - X2)) * 0.0187477)) * 0.0308713) + 0.96926)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual (simplified): ((2.61586 * (((5.41349 + (((3.24072 * ((((4.92321 - X2) * 0.177284) + (4.65162 - X2)) * 0.0187477)) * 0.0308713) + 0.96926)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual Nodes Count: 29 - Best Individual Fitness: 14.593483
+Best Individual Error Range: [3.66835e-05 - 0.198999]
+Best Individual Mean Error: 0.056977
+Best Individual RMS: 0.068523
+Start of generation 56 -------------------------------------------- 56, time: Thu Jun 07 11:23:08 GMT+0200 2007
+
+Best Individual: 263 = ((2.61586 * (((5.41349 + (((3.24072 * ((((4.92321 - X2) * 0.177284) + (4.89099 - -2.5439)) * 0.14363)) * 0.0308713) + 0.96926)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual (simplified): ((2.61586 * (((5.41349 + (((3.24072 * ((((4.92321 - X2) * 0.177284) + 7.43489) * 0.14363)) * 0.0308713) + 0.96926)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual Nodes Count: 29 - Best Individual Fitness: 14.671131
+Best Individual Error Range: [9.47321e-05 - 0.205939]
+Best Individual Mean Error: 0.056058
+Best Individual RMS: 0.068161
+Start of generation 57 -------------------------------------------- 57, time: Thu Jun 07 11:25:07 GMT+0200 2007
+
+Best Individual: 405 = ((2.61586 * (((5.41349 + (((3.24072 * ((((4.71209 - X2) * 0.177284) + (4.89099 - -2.5439)) * 0.14363)) * 0.0308713) + 1.12428)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual (simplified): ((2.61586 * (((5.41349 + (((3.24072 * ((((4.71209 - X2) * 0.177284) + 7.43489) * 0.14363)) * 0.0308713) + 1.12428)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual Nodes Count: 29 - Best Individual Fitness: 14.741001
+Best Individual Error Range: [5.53551e-05 - 0.198363]
+Best Individual Mean Error: 0.055928
+Best Individual RMS: 0.067838
+Start of generation 58 -------------------------------------------- 58, time: Thu Jun 07 11:27:02 GMT+0200 2007
+
+Best Individual: 291 = ((2.61586 * (((5.41349 + (((3.44781 * ((((4.71209 - X2) * 0.177284) + (4.89099 - -2.5439)) * 0.14363)) * 0.0308713) + 1.12428)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual (simplified): ((2.61586 * (((5.41349 + (((3.44781 * ((((4.71209 - X2) * 0.177284) + 7.43489) * 0.14363)) * 0.0308713) + 1.12428)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual Nodes Count: 29 - Best Individual Fitness: 14.756649
+Best Individual Error Range: [2.67757e-05 - 0.203885]
+Best Individual Mean Error: 0.055599
+Best Individual RMS: 0.067766
+Start of generation 59 -------------------------------------------- 59, time: Thu Jun 07 11:28:56 GMT+0200 2007
+
+Best Individual: 289 = ((2.61586 * (((5.41349 + (((3.40499 * ((((4.71209 - X2) * 0.177284) + (4.89099 - -2.5439)) * 0.14363)) * 0.0308713) + 1.12428)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual (simplified): ((2.61586 * (((5.41349 + (((3.40499 * ((((4.71209 - X2) * 0.177284) + 7.43489) * 0.14363)) * 0.0308713) + 1.12428)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual Nodes Count: 29 - Best Individual Fitness: 14.761597
+Best Individual Error Range: [1.42406e-05 - 0.202744]
+Best Individual Mean Error: 0.055634
+Best Individual RMS: 0.067743
+Start of generation 60 -------------------------------------------- 60, time: Thu Jun 07 11:30:50 GMT+0200 2007
+
+Best Individual: 153 = ((2.61586 * (((5.63878 + (((3.65365 * ((((4.71209 - X2) * 0.177284) + (4.89099 - 0.0980964)) * 0.14363)) * 0.0308713) + 1.12428)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual (simplified): ((2.61586 * (((5.63878 + (((3.65365 * ((((4.71209 - X2) * 0.177284) + 4.7929) * 0.14363)) * 0.0308713) + 1.12428)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual Nodes Count: 29 - Best Individual Fitness: 14.805259
+Best Individual Error Range: [5.52918e-07 - 0.200424]
+Best Individual Mean Error: 0.055292
+Best Individual RMS: 0.067543
+Start of generation 61 -------------------------------------------- 61, time: Thu Jun 07 11:32:52 GMT+0200 2007
+
+Best Individual: 197 = ((2.63336 * (((5.63878 + (((3.65365 * ((((4.71209 - X2) * 0.177284) + (4.89099 - 0.0980964)) * 0.14363)) * 0.0308713) + 1.12428)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual (simplified): ((2.63336 * (((5.63878 + (((3.65365 * ((((4.71209 - X2) * 0.177284) + 4.7929) * 0.14363)) * 0.0308713) + 1.12428)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual Nodes Count: 29 - Best Individual Fitness: 14.847317
+Best Individual Error Range: [9.02667e-06 - 0.204843]
+Best Individual Mean Error: 0.055135
+Best Individual RMS: 0.067352
+Start of generation 62 -------------------------------------------- 62, time: Thu Jun 07 11:34:51 GMT+0200 2007
+
+Best Individual: 153 = ((2.63336 * (((5.63878 + (((3.65365 * ((((4.71209 - X2) * 0.177284) + (4.89099 + 0.0980964)) * 0.14363)) * 0.0308713) + 1.12428)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual (simplified): ((2.63336 * (((5.63878 + (((3.65365 * ((((4.71209 - X2) * 0.177284) + 4.98909) * 0.14363)) * 0.0308713) + 1.12428)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual Nodes Count: 29 - Best Individual Fitness: 14.847395
+Best Individual Error Range: [1.15846e-05 - 0.204686]
+Best Individual Mean Error: 0.055135
+Best Individual RMS: 0.067351
+Start of generation 63 -------------------------------------------- 63, time: Thu Jun 07 11:36:49 GMT+0200 2007
+
+Best Individual: 199 = ((2.66969 * (((5.63878 + (((3.65365 * ((((4.71209 - X2) * 0.177284) + (4.89099 + 0.0980964)) * 0.14363)) * 0.0308713) + 1.12428)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual (simplified): ((2.66969 * (((5.63878 + (((3.65365 * ((((4.71209 - X2) * 0.177284) + 4.98909) * 0.14363)) * 0.0308713) + 1.12428)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual Nodes Count: 29 - Best Individual Fitness: 14.887791
+Best Individual Error Range: [4.24214e-05 - 0.213859]
+Best Individual Mean Error: 0.054977
+Best Individual RMS: 0.067169
+Start of generation 64 -------------------------------------------- 64, time: Thu Jun 07 11:38:43 GMT+0200 2007
+
+Best Individual: 407 = ((2.66969 * (((5.63878 + (((3.67412 * ((((4.71209 - X2) * 0.177284) + (4.89099 + 0.0980964)) * 0.14363)) * 0.0308713) + 1.12428)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual (simplified): ((2.66969 * (((5.63878 + (((3.67412 * ((((4.71209 - X2) * 0.177284) + 4.98909) * 0.14363)) * 0.0308713) + 1.12428)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual Nodes Count: 29 - Best Individual Fitness: 14.887985
+Best Individual Error Range: [2.18517e-06 - 0.214427]
+Best Individual Mean Error: 0.054953
+Best Individual RMS: 0.067168
+Start of generation 65 -------------------------------------------- 65, time: Thu Jun 07 11:40:44 GMT+0200 2007
+
+Best Individual: 157 = ((2.66969 * (((5.63878 + (((3.67412 * ((((4.71209 - X2) * 0.177284) + (5.01629 + 0.0980964)) * 0.14363)) * 0.0308713) + 1.12428)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual (simplified): ((2.66969 * (((5.63878 + (((3.67412 * ((((4.71209 - X2) * 0.177284) + 5.11439) * 0.14363)) * 0.0308713) + 1.12428)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual Nodes Count: 29 - Best Individual Fitness: 14.888252
+Best Individual Error Range: [9.99784e-05 - 0.214325]
+Best Individual Mean Error: 0.054953
+Best Individual RMS: 0.067167
+Start of generation 66 -------------------------------------------- 66, time: Thu Jun 07 11:42:44 GMT+0200 2007
+
+Best Individual: 3369 = ((2.66969 * (((5.63878 + (((3.67412 * ((((4.71209 - X2) * 0.177284) + (5.26179 + 0.0980964)) * 0.14363)) * 0.0308713) + 1.12428)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual (simplified): ((2.66969 * (((5.63878 + (((3.67412 * ((((4.71209 - X2) * 0.177284) + 5.35989) * 0.14363)) * 0.0308713) + 1.12428)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual Nodes Count: 29 - Best Individual Fitness: 14.888678
+Best Individual Error Range: [2.31328e-05 - 0.214125]
+Best Individual Mean Error: 0.054954
+Best Individual RMS: 0.067165
+Start of generation 67 -------------------------------------------- 67, time: Thu Jun 07 11:44:45 GMT+0200 2007
+
+Best Individual: 345 = ((2.66969 * (((5.63878 + (((3.67412 * ((((4.71209 - X2) * 0.177284) + (5.42796 + 0.0980964)) * 0.14363)) * 0.0308713) + 1.12428)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual (simplified): ((2.66969 * (((5.63878 + (((3.67412 * ((((4.71209 - X2) * 0.177284) + 5.52606) * 0.14363)) * 0.0308713) + 1.12428)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual Nodes Count: 29 - Best Individual Fitness: 14.888890
+Best Individual Error Range: [3.79449e-05 - 0.213989]
+Best Individual Mean Error: 0.054955
+Best Individual RMS: 0.067164
+Start of generation 68 -------------------------------------------- 68, time: Thu Jun 07 11:46:48 GMT+0200 2007
+
+Best Individual: 11277 = ((2.66969 * (((5.63878 + (((3.67412 * ((((-4.35869 - X0) * 0.177284) + (5.26179 + 0.0980964)) * 0.14363)) * 0.0308713) + 1.12428)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual (simplified): ((2.66969 * (((5.63878 + (((3.67412 * ((((-4.35869 - X0) * 0.177284) + 5.35989) * 0.14363)) * 0.0308713) + 1.12428)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual Nodes Count: 29 - Best Individual Fitness: 14.891625
+Best Individual Error Range: [3.45843e-05 - 0.21351]
+Best Individual Mean Error: 0.054949
+Best Individual RMS: 0.067151
+Start of generation 69 -------------------------------------------- 69, time: Thu Jun 07 11:48:52 GMT+0200 2007
+
+Best Individual: 0 = ((2.66969 * (((5.63878 + (((3.67412 * ((((-4.35869 - X0) * 0.177284) + 5.35989) * 0.14363)) * 0.0308713) + 1.12428)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual (simplified): ((2.66969 * (((5.63878 + (((3.67412 * ((((-4.35869 - X0) * 0.177284) + 5.35989) * 0.14363)) * 0.0308713) + 1.12428)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual Nodes Count: 27 - Best Individual Fitness: 14.891625
+Best Individual Error Range: [3.45843e-05 - 0.21351]
+Best Individual Mean Error: 0.054949
+Best Individual RMS: 0.067151
+Start of generation 70 -------------------------------------------- 70, time: Thu Jun 07 11:51:00 GMT+0200 2007
+
+Best Individual: 415 = ((2.66969 * (((5.63878 + (((3.67412 * ((((-4.09721 - X0) * 0.177284) + 5.35989) * 0.14363)) * 0.0308713) + 1.12428)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual (simplified): ((2.66969 * (((5.63878 + (((3.67412 * ((((-4.09721 - X0) * 0.177284) + 5.35989) * 0.14363)) * 0.0308713) + 1.12428)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual Nodes Count: 27 - Best Individual Fitness: 14.891648
+Best Individual Error Range: [3.2138e-06 - 0.213472]
+Best Individual Mean Error: 0.054949
+Best Individual RMS: 0.067151
+Start of generation 71 -------------------------------------------- 71, time: Thu Jun 07 11:53:05 GMT+0200 2007
+
+Best Individual: 6473 = ((2.66969 * (((5.63878 + (((3.67412 * ((((-2.88027 - X0) * 0.177284) + 5.35989) * 0.14363)) * 0.0308713) + 1.12428)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual (simplified): ((2.66969 * (((5.63878 + (((3.67412 * ((((-2.88027 - X0) * 0.177284) + 5.35989) * 0.14363)) * 0.0308713) + 1.12428)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual Nodes Count: 27 - Best Individual Fitness: 14.891694
+Best Individual Error Range: [6.18318e-05 - 0.213296]
+Best Individual Mean Error: 0.054951
+Best Individual RMS: 0.067151
+Start of generation 72 -------------------------------------------- 72, time: Thu Jun 07 11:55:10 GMT+0200 2007
+
+Best Individual: 2 = ((2.66969 * (((5.63878 + (((3.67412 * ((((-2.88027 - X0) * 0.177284) + 5.35989) * 0.14363)) * 0.0308713) + 1.12428)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual (simplified): ((2.66969 * (((5.63878 + (((3.67412 * ((((-2.88027 - X0) * 0.177284) + 5.35989) * 0.14363)) * 0.0308713) + 1.12428)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual Nodes Count: 27 - Best Individual Fitness: 14.891694
+Best Individual Error Range: [6.18318e-05 - 0.213296]
+Best Individual Mean Error: 0.054951
+Best Individual RMS: 0.067151
+Start of generation 73 -------------------------------------------- 73, time: Thu Jun 07 11:57:15 GMT+0200 2007
+
+Best Individual: 2 = ((2.66969 * (((5.63878 + (((3.67412 * ((((-2.88027 - X0) * 0.177284) + 5.35989) * 0.14363)) * 0.0308713) + 1.12428)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual (simplified): ((2.66969 * (((5.63878 + (((3.67412 * ((((-2.88027 - X0) * 0.177284) + 5.35989) * 0.14363)) * 0.0308713) + 1.12428)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual Nodes Count: 27 - Best Individual Fitness: 14.891694
+Best Individual Error Range: [6.18318e-05 - 0.213296]
+Best Individual Mean Error: 0.054951
+Best Individual RMS: 0.067151
+Start of generation 74 -------------------------------------------- 74, time: Thu Jun 07 11:59:21 GMT+0200 2007
+
+Best Individual: 2 = ((2.66969 * (((5.63878 + (((3.67412 * ((((-2.88027 - X0) * 0.177284) + 5.35989) * 0.14363)) * 0.0308713) + 1.12428)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual (simplified): ((2.66969 * (((5.63878 + (((3.67412 * ((((-2.88027 - X0) * 0.177284) + 5.35989) * 0.14363)) * 0.0308713) + 1.12428)) + (X4 - X2)) * 0.0187477)) + 0.510131)
+
+Best Individual Nodes Count: 27 - Best Individual Fitness: 14.891694
+Best Individual Error Range: [6.18318e-05 - 0.213296]
+Best Individual Mean Error: 0.054951
+Best Individual RMS: 0.067151

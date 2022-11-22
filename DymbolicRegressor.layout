@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="generation.d" open="0" top="0" tabpos="6">
+		<Cursor position="2" topLine="0" />
+	</File>
+	<File name="individual.d" open="1" top="0" tabpos="2">
+		<Cursor position="29822" topLine="1013" />
+	</File>
+	<File name="main.d" open="1" top="0" tabpos="1">
+		<Cursor position="5905" topLine="827" />
+	</File>
+	<File name="operators.d" open="1" top="0" tabpos="4">
+		<Cursor position="58" topLine="0" />
+	</File>
+	<File name="population.d" open="1" top="0" tabpos="5">
+		<Cursor position="10023" topLine="306" />
+	</File>
+	<File name="rangedetector.d" open="0" top="0" tabpos="5">
+		<Cursor position="1774" topLine="58" />
+	</File>
+	<File name="regressiondata.d" open="1" top="0" tabpos="3">
+		<Cursor position="2069" topLine="63" />
+	</File>
+</CodeBlocks_layout_file>
